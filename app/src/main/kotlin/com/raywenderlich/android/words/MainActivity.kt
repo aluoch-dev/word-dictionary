@@ -43,6 +43,7 @@ import androidx.compose.material.Scaffold
 import androidx.compose.material.Text
 import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
+import com.raywenderlich.android.words.ui.WordListUi
 import com.raywenderlich.android.words.ui.bars.MainTopBar
 import com.raywenderlich.android.words.ui.theme.WordsTheme
 
@@ -52,17 +53,7 @@ class MainActivity : AppCompatActivity() {
     super.onCreate(savedInstanceState)
     setContent {
       WordsTheme {
-        Scaffold(
-          topBar = { MainTopBar() },
-          content = {
-            Box(
-              modifier = Modifier.fillMaxSize(),
-              contentAlignment = Alignment.Center,
-            ) {
-              Text(text = "Hello Words!")
-            }
-          }
-        )
+        WordListUi()
       }
     }
   }
