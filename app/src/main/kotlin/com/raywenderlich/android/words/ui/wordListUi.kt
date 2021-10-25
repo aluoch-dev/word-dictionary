@@ -20,14 +20,14 @@ import com.raywenderlich.android.words.ui.bars.MainTopBar
  */
 
 @Composable
-fun WordListUi(){
+fun WordListUi(words: List<Word>){// Adding a new parameter to WordListUi, words which is a List of the defined Word data class
     Scaffold(
         topBar = { MainTopBar()},
         content = {
             WordsContent(
-                words = RandomWords.map { Word(it) },       // 1
+                words = words,       // Passes the list of words to WordsContent. Note that word generation is now in the MainViewModel
                 onSelected = { word -> Log.e("WordsContent",
-                    "Selected: $word") } // 2
+                    "Selected: $word") }
             )
 
         }
