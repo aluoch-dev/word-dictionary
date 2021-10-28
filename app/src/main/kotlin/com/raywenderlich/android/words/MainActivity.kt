@@ -38,25 +38,17 @@ import android.os.Bundle
 import androidx.activity.compose.setContent
 import androidx.activity.viewModels
 import androidx.appcompat.app.AppCompatActivity
-import androidx.compose.foundation.layout.Box
-import androidx.compose.foundation.layout.fillMaxSize
-import androidx.compose.material.Scaffold
-import androidx.compose.material.Text
-import androidx.compose.ui.Alignment
-import androidx.compose.ui.Modifier
 import com.raywenderlich.android.words.ui.WordListUi
-import com.raywenderlich.android.words.ui.bars.MainTopBar
 import com.raywenderlich.android.words.ui.theme.WordsTheme
 
 class MainActivity : AppCompatActivity() {
-
   private val viewModel by viewModels<MainViewModel>()
 
   override fun onCreate(savedInstanceState: Bundle?) {
     super.onCreate(savedInstanceState)
     setContent {
       WordsTheme {
-        WordListUi(words = viewModel.words) //
+        WordListUi(words = viewModel.words)
       }
     }
   }
