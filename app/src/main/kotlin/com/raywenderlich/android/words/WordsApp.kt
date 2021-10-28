@@ -35,7 +35,9 @@
 package com.raywenderlich.android.words
 
 import android.app.Application
+import com.raywenderlich.android.words.data.words.WordRepository
 
 class WordsApp : Application() {
+    val wordRepository by lazy { WordRepository() }
 
 }
