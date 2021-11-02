@@ -8,6 +8,8 @@ import androidx.lifecycle.viewModelScope
 import com.raywenderlich.android.words.data.words.RandomWords
 import com.raywenderlich.android.words.data.words.Word
 import kotlinx.coroutines.Dispatchers
+import kotlinx.coroutines.flow.MutableStateFlow
+import kotlinx.coroutines.flow.StateFlow
 import kotlinx.coroutines.launch
 import kotlinx.coroutines.runBlocking
 
@@ -22,8 +24,8 @@ class MainViewModel(application: Application) : AndroidViewModel(application) {
     private val wordRepository =
         getApplication<WordsApp>().wordRepository
 
-    private val _words = mutableStateOf(emptyList<Word>())// creates an internal mutableState which hosts the list of words.
-    val words: State<List<Word>> = _words
+    private val _words = MutableStateFlow(emptyList<Word>())// creates an internal mutableState which hosts the list of words.
+    val words: StateFlow<List<Word>> = _words
 
     //loads the lst of words
     fun load() = effect {
