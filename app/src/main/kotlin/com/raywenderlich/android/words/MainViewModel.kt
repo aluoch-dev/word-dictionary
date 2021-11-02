@@ -20,6 +20,11 @@ import kotlinx.coroutines.runBlocking
 // Defining the ViewModel as an AndroidViewModel associated with application instance.
 //Application instance is used to inject components
 class MainViewModel(application: Application) : AndroidViewModel(application) {
+    //loading state
+    private val _isLoading = MutableStateFlow(true)
+    val isLoading: StateFlow<Boolean> = _isLoading
+
+
     // Returns the values in WordlistUi
     private val wordRepository =
         getApplication<WordsApp>().wordRepository
@@ -29,7 +34,9 @@ class MainViewModel(application: Application) : AndroidViewModel(application) {
 
     //loads the lst of words
     fun load() = effect {
+        _isLoading.value = true
         _words.value = wordRepository.allWords()
+        _isLoading.value = false
     }
 
    private fun effect(block: suspend () -> Unit){
