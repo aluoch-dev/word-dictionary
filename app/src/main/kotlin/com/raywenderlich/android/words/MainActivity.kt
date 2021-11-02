@@ -38,6 +38,7 @@ import android.os.Bundle
 import androidx.activity.compose.setContent
 import androidx.activity.viewModels
 import androidx.appcompat.app.AppCompatActivity
+import androidx.compose.runtime.getValue
 import com.raywenderlich.android.words.ui.WordListUi
 import com.raywenderlich.android.words.ui.theme.WordsTheme
 
@@ -46,9 +47,11 @@ class MainActivity : AppCompatActivity() {
 
   override fun onCreate(savedInstanceState: Bundle?) {
     super.onCreate(savedInstanceState)
+    viewModel.load()
     setContent {
+      val words by viewModel.words
       WordsTheme {
-        WordListUi(words = viewModel.words)
+        WordListUi(words = words)
       }
     }
   }
