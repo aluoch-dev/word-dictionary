@@ -1,12 +1,12 @@
 <component name="libraryTable">
   <library name="Gradle: androidx.fragment:fragment:1.3.4@aar">
     <ANNOTATIONS>
-      <root url="jar://$PROJECT_DIR$/../../Aviro/androidProjects/caches/transforms-3/d4908d9fefede62f959d0b8aa8ab1c03/transformed/fragment-1.3.4/annotations.zip!/" />
+      <root url="jar://$PROJECT_DIR$/../../Aviro/androidProjects/caches/transforms-3/79a652d69c4ec63cfcda3a8f431c4ccc/transformed/fragment-1.3.4/annotations.zip!/" />
     </ANNOTATIONS>
     <CLASSES>
-      <root url="jar://$PROJECT_DIR$/../../Aviro/androidProjects/caches/transforms-3/d4908d9fefede62f959d0b8aa8ab1c03/transformed/fragment-1.3.4/jars/classes.jar!/" />
-      <root url="file://$PROJECT_DIR$/../../Aviro/androidProjects/caches/transforms-3/d4908d9fefede62f959d0b8aa8ab1c03/transformed/fragment-1.3.4/res" />
-      <root url="file://$PROJECT_DIR$/../../Aviro/androidProjects/caches/transforms-3/d4908d9fefede62f959d0b8aa8ab1c03/transformed/fragment-1.3.4/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/../../Aviro/androidProjects/caches/transforms-3/79a652d69c4ec63cfcda3a8f431c4ccc/transformed/fragment-1.3.4/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/../../Aviro/androidProjects/caches/transforms-3/79a652d69c4ec63cfcda3a8f431c4ccc/transformed/fragment-1.3.4/res" />
+      <root url="jar://$PROJECT_DIR$/../../Aviro/androidProjects/caches/transforms-3/79a652d69c4ec63cfcda3a8f431c4ccc/transformed/fragment-1.3.4/jars/classes.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>

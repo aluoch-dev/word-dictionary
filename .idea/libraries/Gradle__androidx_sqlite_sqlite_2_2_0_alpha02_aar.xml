@@ -1,9 +1,9 @@
 <component name="libraryTable">
   <library name="Gradle: androidx.sqlite:sqlite:2.2.0-alpha02@aar">
     <CLASSES>
-      <root url="jar://$PROJECT_DIR$/../../Aviro/androidProjects/caches/transforms-3/c81ca8e588900ec18b52a137fd227ff6/transformed/sqlite-2.2.0-alpha02/jars/classes.jar!/" />
-      <root url="file://$PROJECT_DIR$/../../Aviro/androidProjects/caches/transforms-3/c81ca8e588900ec18b52a137fd227ff6/transformed/sqlite-2.2.0-alpha02/res" />
-      <root url="file://$PROJECT_DIR$/../../Aviro/androidProjects/caches/transforms-3/c81ca8e588900ec18b52a137fd227ff6/transformed/sqlite-2.2.0-alpha02/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/../../Aviro/androidProjects/caches/transforms-3/23aed59f4831cda7d639e9a59b777b0d/transformed/sqlite-2.2.0-alpha02/res" />
+      <root url="jar://$PROJECT_DIR$/../../Aviro/androidProjects/caches/transforms-3/23aed59f4831cda7d639e9a59b777b0d/transformed/sqlite-2.2.0-alpha02/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../Aviro/androidProjects/caches/transforms-3/23aed59f4831cda7d639e9a59b777b0d/transformed/sqlite-2.2.0-alpha02/AndroidManifest.xml" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>

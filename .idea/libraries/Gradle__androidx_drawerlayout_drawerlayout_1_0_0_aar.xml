@@ -1,12 +1,14 @@
 <component name="libraryTable">
   <library name="Gradle: androidx.drawerlayout:drawerlayout:1.0.0@aar">
     <ANNOTATIONS>
-      <root url="jar://$PROJECT_DIR$/../../Aviro/androidProjects/caches/transforms-3/6dbb52473eae0438dcb60aa275110801/transformed/drawerlayout-1.0.0/annotations.zip!/" />
+      <root url="jar://$PROJECT_DIR$/../../Aviro/androidProjects/caches/transforms-3/b2e5d718f269aa8043a14da67179578f/transformed/drawerlayout-1.0.0/annotations.zip!/" />
     </ANNOTATIONS>
     <CLASSES>
-      <root url="jar://$PROJECT_DIR$/../../Aviro/androidProjects/caches/transforms-3/6dbb52473eae0438dcb60aa275110801/transformed/drawerlayout-1.0.0/jars/classes.jar!/" />
       <root url="file://$PROJECT_DIR$/../../Aviro/androidProjects/caches/transforms-3/6dbb52473eae0438dcb60aa275110801/transformed/drawerlayout-1.0.0/res" />
-      <root url="file://$PROJECT_DIR$/../../Aviro/androidProjects/caches/transforms-3/6dbb52473eae0438dcb60aa275110801/transformed/drawerlayout-1.0.0/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/../../Aviro/androidProjects/caches/transforms-3/507d3710fa50054d5aeba48931aa500a/transformed/drawerlayout-1.0.0/res" />
+      <root url="file://$PROJECT_DIR$/../../Aviro/androidProjects/caches/transforms-3/b2e5d718f269aa8043a14da67179578f/transformed/drawerlayout-1.0.0/res" />
+      <root url="file://$PROJECT_DIR$/../../Aviro/androidProjects/caches/transforms-3/b2e5d718f269aa8043a14da67179578f/transformed/drawerlayout-1.0.0/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/../../Aviro/androidProjects/caches/transforms-3/b2e5d718f269aa8043a14da67179578f/transformed/drawerlayout-1.0.0/jars/classes.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>

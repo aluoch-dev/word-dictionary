@@ -1,0 +1,2 @@
+com/raywenderlich/android/words/BuildConfig.java
+ com.raywenderlich.android.words.BuildConfig

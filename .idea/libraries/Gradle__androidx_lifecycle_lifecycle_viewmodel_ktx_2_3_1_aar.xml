@@ -1,9 +1,11 @@
 <component name="libraryTable">
   <library name="Gradle: androidx.lifecycle:lifecycle-viewmodel-ktx:2.3.1@aar">
     <CLASSES>
-      <root url="jar://$PROJECT_DIR$/../../Aviro/androidProjects/caches/transforms-3/457dfbdc7afa5174b530067c4d43a24c/transformed/lifecycle-viewmodel-ktx-2.3.1/jars/classes.jar!/" />
       <root url="file://$PROJECT_DIR$/../../Aviro/androidProjects/caches/transforms-3/457dfbdc7afa5174b530067c4d43a24c/transformed/lifecycle-viewmodel-ktx-2.3.1/res" />
-      <root url="file://$PROJECT_DIR$/../../Aviro/androidProjects/caches/transforms-3/457dfbdc7afa5174b530067c4d43a24c/transformed/lifecycle-viewmodel-ktx-2.3.1/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/../../Aviro/androidProjects/caches/transforms-3/c1fdfd1c199def3e190ef8cf7e873578/transformed/lifecycle-viewmodel-ktx-2.3.1/res" />
+      <root url="jar://$PROJECT_DIR$/../../Aviro/androidProjects/caches/transforms-3/d80473f598e1b4376d676b0b22ec1eda/transformed/lifecycle-viewmodel-ktx-2.3.1/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../Aviro/androidProjects/caches/transforms-3/d80473f598e1b4376d676b0b22ec1eda/transformed/lifecycle-viewmodel-ktx-2.3.1/res" />
+      <root url="file://$PROJECT_DIR$/../../Aviro/androidProjects/caches/transforms-3/d80473f598e1b4376d676b0b22ec1eda/transformed/lifecycle-viewmodel-ktx-2.3.1/AndroidManifest.xml" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>

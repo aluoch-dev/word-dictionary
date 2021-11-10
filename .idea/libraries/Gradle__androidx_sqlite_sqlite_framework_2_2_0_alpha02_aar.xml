@@ -1,9 +1,9 @@
 <component name="libraryTable">
   <library name="Gradle: androidx.sqlite:sqlite-framework:2.2.0-alpha02@aar">
     <CLASSES>
-      <root url="jar://$PROJECT_DIR$/../../Aviro/androidProjects/caches/transforms-3/99c5cacc4fe8f786b9d7519f03d3d0d8/transformed/sqlite-framework-2.2.0-alpha02/jars/classes.jar!/" />
-      <root url="file://$PROJECT_DIR$/../../Aviro/androidProjects/caches/transforms-3/99c5cacc4fe8f786b9d7519f03d3d0d8/transformed/sqlite-framework-2.2.0-alpha02/res" />
-      <root url="file://$PROJECT_DIR$/../../Aviro/androidProjects/caches/transforms-3/99c5cacc4fe8f786b9d7519f03d3d0d8/transformed/sqlite-framework-2.2.0-alpha02/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/../../Aviro/androidProjects/caches/transforms-3/1aea746989d5a311d890b8327c039a69/transformed/sqlite-framework-2.2.0-alpha02/res" />
+      <root url="jar://$PROJECT_DIR$/../../Aviro/androidProjects/caches/transforms-3/1aea746989d5a311d890b8327c039a69/transformed/sqlite-framework-2.2.0-alpha02/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../Aviro/androidProjects/caches/transforms-3/1aea746989d5a311d890b8327c039a69/transformed/sqlite-framework-2.2.0-alpha02/AndroidManifest.xml" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>

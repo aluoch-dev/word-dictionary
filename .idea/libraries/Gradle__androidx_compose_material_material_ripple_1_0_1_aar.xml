@@ -1,9 +1,9 @@
 <component name="libraryTable">
   <library name="Gradle: androidx.compose.material:material-ripple:1.0.1@aar">
     <CLASSES>
-      <root url="jar://$PROJECT_DIR$/../../Aviro/androidProjects/caches/transforms-3/08b9905f7643f76f65a0c36314925039/transformed/material-ripple-1.0.1/jars/classes.jar!/" />
-      <root url="file://$PROJECT_DIR$/../../Aviro/androidProjects/caches/transforms-3/08b9905f7643f76f65a0c36314925039/transformed/material-ripple-1.0.1/res" />
-      <root url="file://$PROJECT_DIR$/../../Aviro/androidProjects/caches/transforms-3/08b9905f7643f76f65a0c36314925039/transformed/material-ripple-1.0.1/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/../../Aviro/androidProjects/caches/transforms-3/c395fe1bfd31e87835884791dbf48dc1/transformed/material-ripple-1.0.1/res" />
+      <root url="file://$PROJECT_DIR$/../../Aviro/androidProjects/caches/transforms-3/c395fe1bfd31e87835884791dbf48dc1/transformed/material-ripple-1.0.1/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/../../Aviro/androidProjects/caches/transforms-3/c395fe1bfd31e87835884791dbf48dc1/transformed/material-ripple-1.0.1/jars/classes.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>

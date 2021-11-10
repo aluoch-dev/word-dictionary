@@ -1,12 +1,12 @@
 <component name="libraryTable">
   <library name="Gradle: androidx.room:room-runtime:2.4.0-alpha04@aar">
     <ANNOTATIONS>
-      <root url="jar://$PROJECT_DIR$/../../Aviro/androidProjects/caches/transforms-3/6a84997e0609c6c059883ab4e37e559c/transformed/room-runtime-2.4.0-alpha04/annotations.zip!/" />
+      <root url="jar://$PROJECT_DIR$/../../Aviro/androidProjects/caches/transforms-3/d886610a3d52a6c7706d568cdb165e20/transformed/room-runtime-2.4.0-alpha04/annotations.zip!/" />
     </ANNOTATIONS>
     <CLASSES>
-      <root url="jar://$PROJECT_DIR$/../../Aviro/androidProjects/caches/transforms-3/6a84997e0609c6c059883ab4e37e559c/transformed/room-runtime-2.4.0-alpha04/jars/classes.jar!/" />
-      <root url="file://$PROJECT_DIR$/../../Aviro/androidProjects/caches/transforms-3/6a84997e0609c6c059883ab4e37e559c/transformed/room-runtime-2.4.0-alpha04/res" />
-      <root url="file://$PROJECT_DIR$/../../Aviro/androidProjects/caches/transforms-3/6a84997e0609c6c059883ab4e37e559c/transformed/room-runtime-2.4.0-alpha04/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/../../Aviro/androidProjects/caches/transforms-3/d886610a3d52a6c7706d568cdb165e20/transformed/room-runtime-2.4.0-alpha04/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../Aviro/androidProjects/caches/transforms-3/d886610a3d52a6c7706d568cdb165e20/transformed/room-runtime-2.4.0-alpha04/res" />
+      <root url="file://$PROJECT_DIR$/../../Aviro/androidProjects/caches/transforms-3/d886610a3d52a6c7706d568cdb165e20/transformed/room-runtime-2.4.0-alpha04/AndroidManifest.xml" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>

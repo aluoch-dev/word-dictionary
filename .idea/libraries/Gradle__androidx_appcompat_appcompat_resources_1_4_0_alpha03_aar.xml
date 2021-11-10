@@ -1,9 +1,9 @@
 <component name="libraryTable">
   <library name="Gradle: androidx.appcompat:appcompat-resources:1.4.0-alpha03@aar">
     <CLASSES>
-      <root url="jar://$PROJECT_DIR$/../../Aviro/androidProjects/caches/transforms-3/4f7e9686636f1be5317b774a27522ba6/transformed/appcompat-resources-1.4.0-alpha03/jars/classes.jar!/" />
-      <root url="file://$PROJECT_DIR$/../../Aviro/androidProjects/caches/transforms-3/4f7e9686636f1be5317b774a27522ba6/transformed/appcompat-resources-1.4.0-alpha03/res" />
-      <root url="file://$PROJECT_DIR$/../../Aviro/androidProjects/caches/transforms-3/4f7e9686636f1be5317b774a27522ba6/transformed/appcompat-resources-1.4.0-alpha03/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/../../Aviro/androidProjects/caches/transforms-3/7296f65a3d1769e060bab4513b689b03/transformed/appcompat-resources-1.4.0-alpha03/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../Aviro/androidProjects/caches/transforms-3/7296f65a3d1769e060bab4513b689b03/transformed/appcompat-resources-1.4.0-alpha03/res" />
+      <root url="file://$PROJECT_DIR$/../../Aviro/androidProjects/caches/transforms-3/7296f65a3d1769e060bab4513b689b03/transformed/appcompat-resources-1.4.0-alpha03/AndroidManifest.xml" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>

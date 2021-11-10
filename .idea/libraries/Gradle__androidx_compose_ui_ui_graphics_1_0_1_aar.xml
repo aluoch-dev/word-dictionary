@@ -1,9 +1,9 @@
 <component name="libraryTable">
   <library name="Gradle: androidx.compose.ui:ui-graphics:1.0.1@aar">
     <CLASSES>
-      <root url="jar://$PROJECT_DIR$/../../Aviro/androidProjects/caches/transforms-3/0da9b9e12550d9c1b7e210b1fef67aca/transformed/ui-graphics-1.0.1/jars/classes.jar!/" />
-      <root url="file://$PROJECT_DIR$/../../Aviro/androidProjects/caches/transforms-3/0da9b9e12550d9c1b7e210b1fef67aca/transformed/ui-graphics-1.0.1/res" />
-      <root url="file://$PROJECT_DIR$/../../Aviro/androidProjects/caches/transforms-3/0da9b9e12550d9c1b7e210b1fef67aca/transformed/ui-graphics-1.0.1/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/../../Aviro/androidProjects/caches/transforms-3/e10c5e6bfccca7895adae5e32e62776e/transformed/ui-graphics-1.0.1/res" />
+      <root url="jar://$PROJECT_DIR$/../../Aviro/androidProjects/caches/transforms-3/e10c5e6bfccca7895adae5e32e62776e/transformed/ui-graphics-1.0.1/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../Aviro/androidProjects/caches/transforms-3/e10c5e6bfccca7895adae5e32e62776e/transformed/ui-graphics-1.0.1/AndroidManifest.xml" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>

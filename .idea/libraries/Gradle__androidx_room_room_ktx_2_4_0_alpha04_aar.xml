@@ -1,9 +1,9 @@
 <component name="libraryTable">
   <library name="Gradle: androidx.room:room-ktx:2.4.0-alpha04@aar">
     <CLASSES>
-      <root url="jar://$PROJECT_DIR$/../../Aviro/androidProjects/caches/transforms-3/ff0530617cb901934a38350d245113fd/transformed/room-ktx-2.4.0-alpha04/jars/classes.jar!/" />
-      <root url="file://$PROJECT_DIR$/../../Aviro/androidProjects/caches/transforms-3/ff0530617cb901934a38350d245113fd/transformed/room-ktx-2.4.0-alpha04/res" />
-      <root url="file://$PROJECT_DIR$/../../Aviro/androidProjects/caches/transforms-3/ff0530617cb901934a38350d245113fd/transformed/room-ktx-2.4.0-alpha04/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/../../Aviro/androidProjects/caches/transforms-3/83e7b71cf372844af3f5ac79b58dd902/transformed/room-ktx-2.4.0-alpha04/res" />
+      <root url="jar://$PROJECT_DIR$/../../Aviro/androidProjects/caches/transforms-3/83e7b71cf372844af3f5ac79b58dd902/transformed/room-ktx-2.4.0-alpha04/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../Aviro/androidProjects/caches/transforms-3/83e7b71cf372844af3f5ac79b58dd902/transformed/room-ktx-2.4.0-alpha04/AndroidManifest.xml" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>

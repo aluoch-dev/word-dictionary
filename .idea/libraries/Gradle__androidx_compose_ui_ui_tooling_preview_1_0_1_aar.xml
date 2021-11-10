@@ -1,9 +1,9 @@
 <component name="libraryTable">
   <library name="Gradle: androidx.compose.ui:ui-tooling-preview:1.0.1@aar">
     <CLASSES>
-      <root url="jar://$PROJECT_DIR$/../../Aviro/androidProjects/caches/transforms-3/e2129100361fb6614709d8d363a6adb9/transformed/ui-tooling-preview-1.0.1/jars/classes.jar!/" />
-      <root url="file://$PROJECT_DIR$/../../Aviro/androidProjects/caches/transforms-3/e2129100361fb6614709d8d363a6adb9/transformed/ui-tooling-preview-1.0.1/res" />
-      <root url="file://$PROJECT_DIR$/../../Aviro/androidProjects/caches/transforms-3/e2129100361fb6614709d8d363a6adb9/transformed/ui-tooling-preview-1.0.1/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/../../Aviro/androidProjects/caches/transforms-3/f687114c0aec86f86f0bd95adb9de3ba/transformed/ui-tooling-preview-1.0.1/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../Aviro/androidProjects/caches/transforms-3/f687114c0aec86f86f0bd95adb9de3ba/transformed/ui-tooling-preview-1.0.1/res" />
+      <root url="file://$PROJECT_DIR$/../../Aviro/androidProjects/caches/transforms-3/f687114c0aec86f86f0bd95adb9de3ba/transformed/ui-tooling-preview-1.0.1/AndroidManifest.xml" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>

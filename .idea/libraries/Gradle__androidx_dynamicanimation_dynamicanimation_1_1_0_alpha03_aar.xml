@@ -1,9 +1,11 @@
 <component name="libraryTable">
   <library name="Gradle: androidx.dynamicanimation:dynamicanimation:1.1.0-alpha03@aar">
     <CLASSES>
-      <root url="jar://$PROJECT_DIR$/../../Aviro/androidProjects/caches/transforms-3/11bfa1688305fe8f5a67089279dbceec/transformed/dynamicanimation-1.1.0-alpha03/jars/classes.jar!/" />
       <root url="file://$PROJECT_DIR$/../../Aviro/androidProjects/caches/transforms-3/11bfa1688305fe8f5a67089279dbceec/transformed/dynamicanimation-1.1.0-alpha03/res" />
-      <root url="file://$PROJECT_DIR$/../../Aviro/androidProjects/caches/transforms-3/11bfa1688305fe8f5a67089279dbceec/transformed/dynamicanimation-1.1.0-alpha03/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/../../Aviro/androidProjects/caches/transforms-3/5f0812ca366bffab04d2f270afe535bc/transformed/dynamicanimation-1.1.0-alpha03/res" />
+      <root url="file://$PROJECT_DIR$/../../Aviro/androidProjects/caches/transforms-3/e3e460d0dc15cf18a4a55c8f2271b5a7/transformed/dynamicanimation-1.1.0-alpha03/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/../../Aviro/androidProjects/caches/transforms-3/e3e460d0dc15cf18a4a55c8f2271b5a7/transformed/dynamicanimation-1.1.0-alpha03/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../Aviro/androidProjects/caches/transforms-3/e3e460d0dc15cf18a4a55c8f2271b5a7/transformed/dynamicanimation-1.1.0-alpha03/res" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>

@@ -35,9 +35,24 @@
 package com.raywenderlich.android.words
 
 import android.app.Application
+import androidx.room.Room
+import com.raywenderlich.android.words.data.words.AppDatabase
 import com.raywenderlich.android.words.data.words.WordRepository
 
 class WordsApp : Application() {
-    val wordRepository by lazy { WordRepository() }
+    //define Room database of type AppDatabase called database.db.
+    // It is lazy because the app does not yet exist while you are instantiating the database in this
+    private val database by lazy{
+        Room.databaseBuilder(this, AppDatabase:: class.java,
+        "database.db").build()
+    }
+
+    //define an instance of wordRepository with the database you just created in the previous step
+    //make it lazy to avoid instantiating the db too early
+    val wordRepository by lazy { WordRepository(database) }
 
 }
+
+//Note that ecah android application creates one Application object.
+// This is one place to define singgletons for manual injection,
+// and they need an android context.

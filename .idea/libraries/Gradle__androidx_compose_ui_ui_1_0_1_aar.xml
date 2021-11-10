@@ -1,9 +1,9 @@
 <component name="libraryTable">
   <library name="Gradle: androidx.compose.ui:ui:1.0.1@aar">
     <CLASSES>
-      <root url="jar://$PROJECT_DIR$/../../Aviro/androidProjects/caches/transforms-3/cf0d593ae862b1c40f970d48169cd16a/transformed/ui-1.0.1/jars/classes.jar!/" />
-      <root url="file://$PROJECT_DIR$/../../Aviro/androidProjects/caches/transforms-3/cf0d593ae862b1c40f970d48169cd16a/transformed/ui-1.0.1/res" />
-      <root url="file://$PROJECT_DIR$/../../Aviro/androidProjects/caches/transforms-3/cf0d593ae862b1c40f970d48169cd16a/transformed/ui-1.0.1/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/../../Aviro/androidProjects/caches/transforms-3/ff71aeb3000d5ef3647cce4fa4afc923/transformed/ui-1.0.1/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../Aviro/androidProjects/caches/transforms-3/ff71aeb3000d5ef3647cce4fa4afc923/transformed/ui-1.0.1/res" />
+      <root url="file://$PROJECT_DIR$/../../Aviro/androidProjects/caches/transforms-3/ff71aeb3000d5ef3647cce4fa4afc923/transformed/ui-1.0.1/AndroidManifest.xml" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>
