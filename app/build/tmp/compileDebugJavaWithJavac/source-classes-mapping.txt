@@ -1,2 +1,10 @@
+com/raywenderlich/android/words/data/words/AppDatabase_Impl.java
+ com.raywenderlich.android.words.data.words.AppDatabase_Impl
+ com.raywenderlich.android.words.data.words.AppDatabase_Impl$1
 com/raywenderlich/android/words/BuildConfig.java
  com.raywenderlich.android.words.BuildConfig
+com/raywenderlich/android/words/data/words/local/WordDao_Impl.java
+ com.raywenderlich.android.words.data.words.local.WordDao_Impl
+ com.raywenderlich.android.words.data.words.local.WordDao_Impl$1
+ com.raywenderlich.android.words.data.words.local.WordDao_Impl$2
+ com.raywenderlich.android.words.data.words.local.WordDao_Impl$3

@@ -4,24 +4,7 @@
             "outputFile": "D:\\learnAndroid\\word-dictionary\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-te\\values-te.xml",
             "map": [
                 {
-                    "source": "D:\\Aviro\\androidProjects\\caches\\transforms-3\\4371c5eed71dc381c4163c5e2c9f5cce\\transformed\\core-1.7.0-alpha01\\res\\values-te\\values-te.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "100",
-                        "endOffsets": "151"
-                    },
-                    "to": {
-                        "startLines": "98",
-                        "startColumns": "4",
-                        "startOffsets": "8415",
-                        "endColumns": "100",
-                        "endOffsets": "8511"
-                    }
-                },
-                {
-                    "source": "D:\\Aviro\\androidProjects\\caches\\transforms-3\\cf0d593ae862b1c40f970d48169cd16a\\transformed\\ui-1.0.1\\res\\values-te\\values-te.xml",
+                    "source": "D:\\Aviro\\androidProjects\\caches\\transforms-3\\ff71aeb3000d5ef3647cce4fa4afc923\\transformed\\ui-1.0.1\\res\\values-te\\values-te.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4",
@@ -38,7 +21,7 @@
                     }
                 },
                 {
-                    "source": "D:\\Aviro\\androidProjects\\caches\\transforms-3\\d225b9ceb1fef2f13166146fc2944697\\transformed\\material-1.4.0\\res\\values-te\\values-te.xml",
+                    "source": "D:\\Aviro\\androidProjects\\caches\\transforms-3\\1b0b224398cf32f10e94b4a9c0d6e2dc\\transformed\\material-1.4.0\\res\\values-te\\values-te.xml",
                     "from": {
                         "startLines": "2,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -57,7 +40,24 @@
                     }
                 },
                 {
-                    "source": "D:\\Aviro\\androidProjects\\caches\\transforms-3\\361062d5a3d867d8a04bc91e160fd82d\\transformed\\appcompat-1.4.0-alpha03\\res\\values-te\\values-te.xml",
+                    "source": "D:\\Aviro\\androidProjects\\caches\\transforms-3\\01b2aeb20568a493d1e28241ede9fa50\\transformed\\core-1.7.0-alpha01\\res\\values-te\\values-te.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "98",
+                        "startColumns": "4",
+                        "startOffsets": "8415",
+                        "endColumns": "100",
+                        "endOffsets": "8511"
+                    }
+                },
+                {
+                    "source": "D:\\Aviro\\androidProjects\\caches\\transforms-3\\3260c7befaa398d4c1758b40a090f353\\transformed\\appcompat-1.4.0-alpha03\\res\\values-te\\values-te.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",

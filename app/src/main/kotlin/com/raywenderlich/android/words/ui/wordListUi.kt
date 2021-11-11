@@ -11,16 +11,21 @@ import androidx.compose.material.Text
 import androidx.compose.runtime.Composable
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.unit.dp
+import androidx.paging.PagingData
+import androidx.paging.compose.LazyPagingItems
+import androidx.paging.compose.collectAsLazyPagingItems
+import androidx.paging.compose.items
 import com.raywenderlich.android.words.data.words.RandomWords
 import com.raywenderlich.android.words.data.words.Word
 import com.raywenderlich.android.words.ui.bars.MainTopBar
+import kotlinx.coroutines.flow.Flow
 
 /**
  * Created by Aluoch on 23/10/2021.
  */
 
 @Composable
-fun WordListUi(words: List<Word>){// Adding a new parameter to WordListUi, words which is a List of the defined Word data class
+fun WordListUi(words: Flow<PagingData<Word>>){// Adding a new parameter to WordListUi, words which is a List of the defined Word data class
     Scaffold(
         topBar = { MainTopBar()},
         content = {
@@ -54,14 +59,17 @@ private fun WordColumnItem(
 //displays a list of words
 @Composable
 private fun WordsContent(
-    words: List<Word>,
+    words: Flow<PagingData<Word>>,
     onSelected: (Word) -> Unit,
 ) {
+    val items: LazyPagingItems<Word> = words.collectAsLazyPagingItems()
     LazyColumn {
-        items(words) { word ->
-            WordColumnItem(
-                word = word
-            ) { onSelected(word) }
+        items(items = items) { word ->
+            if (word != null) {
+                WordColumnItem(
+                    word = word
+                ) { onSelected(word) }
+            }
         }
     }
 }

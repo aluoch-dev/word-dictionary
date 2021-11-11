@@ -1,8 +1,11 @@
 package com.raywenderlich.android.words.data.words.local
 
+import androidx.paging.*
 import androidx.room.RoomDatabase
 import com.raywenderlich.android.words.data.words.AppDatabase
 import com.raywenderlich.android.words.data.words.Word
+import kotlinx.coroutines.flow.map
+import kotlinx.coroutines.flow.Flow
 
 /**
  * Created by Aluoch on 10/11/2021.
@@ -13,8 +16,7 @@ class WordStore (
     //saves an internal instance of WordDao as words
     private val words = database.words
 
-    //call all using WordDao to access LocalWord, then map converts them to plain words
-    fun all(): List<Word> = words.queryAll().map{ it.fromLocal() }
+    fun all(): Flow<PagingData<Word>> = pagingWord { words.queryAll() }
 
     // takes a plain list of words using save, converts them to room values and saves them
     suspend fun save(words: List<Word>){
@@ -34,3 +36,9 @@ private fun Word.toLocal() = LocalWord(
 private fun LocalWord.fromLocal() = Word(
     value = value,
 )
+
+private fun pagingWord(
+    block: () -> PagingSource<Int, LocalWord>,
+): Flow<PagingData<Word>> =
+    Pager(PagingConfig(pageSize = 20)) { block() }.flow
+        .map { page -> page.map { localWord -> localWord.fromLocal() } }

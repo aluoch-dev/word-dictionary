@@ -4,75 +4,75 @@ ADDED from D:\learnAndroid\word-dictionary\app\src\main\AndroidManifest.xml:36:1
 INJECTED from D:\learnAndroid\word-dictionary\app\src\main\AndroidManifest.xml:36:1-61:12
 INJECTED from D:\learnAndroid\word-dictionary\app\src\main\AndroidManifest.xml:36:1-61:12
 INJECTED from D:\learnAndroid\word-dictionary\app\src\main\AndroidManifest.xml:36:1-61:12
-MERGED from [com.google.accompanist:accompanist-systemuicontroller:0.16.1] D:\Aviro\androidProjects\caches\transforms-3\a52a2a42fb24071794a3fa9aa34f4ce1\transformed\accompanist-systemuicontroller-0.16.1\AndroidManifest.xml:17:1-24:12
-MERGED from [com.google.accompanist:accompanist-insets:0.16.1] D:\Aviro\androidProjects\caches\transforms-3\6f624fbb30ed35f1c02c9145b1d17711\transformed\accompanist-insets-0.16.1\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.compose.ui:ui-tooling:1.0.1] D:\Aviro\androidProjects\caches\transforms-3\dd9f22be2e8b59e77c1cecba5d3e403d\transformed\ui-tooling-1.0.1\AndroidManifest.xml:17:1-30:12
-MERGED from [androidx.compose.material:material:1.0.1] D:\Aviro\androidProjects\caches\transforms-3\51b249a1bd02939e047903409232228b\transformed\material-1.0.1\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.activity:activity-compose:1.3.1] D:\Aviro\androidProjects\caches\transforms-3\e4ee2ed46aac36abe0cef5c836b21d20\transformed\activity-compose-1.3.1\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.paging:paging-compose:1.0.0-alpha12] D:\Aviro\androidProjects\caches\transforms-3\72cc132b9c40708f5a78f1ac247621af\transformed\paging-compose-1.0.0-alpha12\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.compose.material:material-ripple:1.0.1] D:\Aviro\androidProjects\caches\transforms-3\08b9905f7643f76f65a0c36314925039\transformed\material-ripple-1.0.1\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.compose.foundation:foundation:1.0.1] D:\Aviro\androidProjects\caches\transforms-3\1e438b18d62ec98e76b0f98e2be88039\transformed\foundation-1.0.1\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.compose.animation:animation:1.0.1] D:\Aviro\androidProjects\caches\transforms-3\393541fcbb00b54f8774675aee6dab46\transformed\animation-1.0.1\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.compose.animation:animation-core:1.0.1] D:\Aviro\androidProjects\caches\transforms-3\6e8778876f361eb842d09026888b49e0\transformed\animation-core-1.0.1\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.compose.material:material-icons-core:1.0.1] D:\Aviro\androidProjects\caches\transforms-3\d758ac9462675d532b30d94b18f66445\transformed\material-icons-core-1.0.1\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.compose.foundation:foundation-layout:1.0.1] D:\Aviro\androidProjects\caches\transforms-3\51f3b418d1d08b33c7d0809b4dd07779\transformed\foundation-layout-1.0.1\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.compose.ui:ui-tooling-data:1.0.1] D:\Aviro\androidProjects\caches\transforms-3\e34f16d8320fc40cad05419160d6b8ed\transformed\ui-tooling-data-1.0.1\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.compose.ui:ui:1.0.1] D:\Aviro\androidProjects\caches\transforms-3\cf0d593ae862b1c40f970d48169cd16a\transformed\ui-1.0.1\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.activity:activity-ktx:1.3.1] D:\Aviro\androidProjects\caches\transforms-3\7d56f2c70e8aa6e92ea8c2dc90525bc0\transformed\activity-ktx-1.3.1\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.3.1] D:\Aviro\androidProjects\caches\transforms-3\db9a7d7a1169087879772be1cae7767b\transformed\lifecycle-runtime-ktx-2.3.1\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.room:room-ktx:2.4.0-alpha04] D:\Aviro\androidProjects\caches\transforms-3\ff0530617cb901934a38350d245113fd\transformed\room-ktx-2.4.0-alpha04\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.compose.ui:ui-text:1.0.1] D:\Aviro\androidProjects\caches\transforms-3\25b1e92adba0ff4441728edac1899488\transformed\ui-text-1.0.1\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.compose.runtime:runtime-saveable:1.0.1] D:\Aviro\androidProjects\caches\transforms-3\d69f02d972e866626c9a7b5e4f76f769\transformed\runtime-saveable-1.0.1\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.compose.ui:ui-graphics:1.0.1] D:\Aviro\androidProjects\caches\transforms-3\0da9b9e12550d9c1b7e210b1fef67aca\transformed\ui-graphics-1.0.1\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.compose.ui:ui-unit:1.0.1] D:\Aviro\androidProjects\caches\transforms-3\43bbb61889a97a061a98ea5325c1589d\transformed\ui-unit-1.0.1\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.compose.ui:ui-geometry:1.0.1] D:\Aviro\androidProjects\caches\transforms-3\63805cfcae6d2474143e037e696f9b26\transformed\ui-geometry-1.0.1\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.compose.ui:ui-tooling-preview:1.0.1] D:\Aviro\androidProjects\caches\transforms-3\e2129100361fb6614709d8d363a6adb9\transformed\ui-tooling-preview-1.0.1\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.compose.runtime:runtime:1.0.1] D:\Aviro\androidProjects\caches\transforms-3\a996fd00ab2f9cc99917d3bc222f9823\transformed\runtime-1.0.1\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.3.1] D:\Aviro\androidProjects\caches\transforms-3\457dfbdc7afa5174b530067c4d43a24c\transformed\lifecycle-viewmodel-ktx-2.3.1\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.core:core-ktx:1.6.0] D:\Aviro\androidProjects\caches\transforms-3\112c063b4bdd420bbfc86d14b3267dd8\transformed\core-ktx-1.6.0\AndroidManifest.xml:2:1-9:12
-MERGED from [com.google.android.material:material:1.4.0] D:\Aviro\androidProjects\caches\transforms-3\d225b9ceb1fef2f13166146fc2944697\transformed\material-1.4.0\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] D:\Aviro\androidProjects\caches\transforms-3\3ad31827ad3f46cf61df08a5fe204852\transformed\constraintlayout-2.0.1\AndroidManifest.xml:2:1-11:12
-MERGED from [androidx.appcompat:appcompat:1.4.0-alpha03] D:\Aviro\androidProjects\caches\transforms-3\361062d5a3d867d8a04bc91e160fd82d\transformed\appcompat-1.4.0-alpha03\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.room:room-runtime:2.4.0-alpha04] D:\Aviro\androidProjects\caches\transforms-3\6a84997e0609c6c059883ab4e37e559c\transformed\room-runtime-2.4.0-alpha04\AndroidManifest.xml:17:1-31:12
-MERGED from [androidx.dynamicanimation:dynamicanimation-ktx:1.0.0-alpha03] D:\Aviro\androidProjects\caches\transforms-3\918906a8fcb73de29058d505681f3af4\transformed\dynamicanimation-ktx-1.0.0-alpha03\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.compose.ui:ui-util:1.0.1] D:\Aviro\androidProjects\caches\transforms-3\b13f5d4035ef3fe18410e17e2399042c\transformed\ui-util-1.0.1\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.savedstate:savedstate-ktx:1.1.0] D:\Aviro\androidProjects\caches\transforms-3\d2cf5ba5b522df70cdd7e17972e6fcde\transformed\savedstate-ktx-1.1.0\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.viewpager2:viewpager2:1.0.0] D:\Aviro\androidProjects\caches\transforms-3\f933f6b25b9bf65af074074a4a94fd3e\transformed\viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.fragment:fragment:1.3.4] D:\Aviro\androidProjects\caches\transforms-3\d4908d9fefede62f959d0b8aa8ab1c03\transformed\fragment-1.3.4\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.appcompat:appcompat-resources:1.4.0-alpha03] D:\Aviro\androidProjects\caches\transforms-3\4f7e9686636f1be5317b774a27522ba6\transformed\appcompat-resources-1.4.0-alpha03\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] D:\Aviro\androidProjects\caches\transforms-3\6dbb52473eae0438dcb60aa275110801\transformed\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.emoji2:emoji2-views-helper:1.0.0-alpha03] D:\Aviro\androidProjects\caches\transforms-3\0574f9fa9121b0d6437ffe827923c6fd\transformed\emoji2-views-helper-1.0.0-alpha03\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.emoji2:emoji2:1.0.0-alpha03] D:\Aviro\androidProjects\caches\transforms-3\ddece3dd8305a76f1eb6ac2eb8a5e755\transformed\emoji2-1.0.0-alpha03\AndroidManifest.xml:17:1-37:12
-MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] D:\Aviro\androidProjects\caches\transforms-3\2b1c28fd2b2ca703b879b3dece4776ad\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.transition:transition:1.2.0] D:\Aviro\androidProjects\caches\transforms-3\581d86125cf990adb76f485a78b0d1fe\transformed\transition-1.2.0\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] D:\Aviro\androidProjects\caches\transforms-3\07743b7d8f12e48deec0640ea76a0ad6\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] D:\Aviro\androidProjects\caches\transforms-3\c663493624f4a3bc668e1ac9f8c1e55b\transformed\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.autofill:autofill:1.0.0] D:\Aviro\androidProjects\caches\transforms-3\de28532c8184108c34e015679a7f4bd2\transformed\autofill-1.0.0\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.viewpager:viewpager:1.0.0] D:\Aviro\androidProjects\caches\transforms-3\20c70eb5991cd94bbfac969663c98129\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.loader:loader:1.0.0] D:\Aviro\androidProjects\caches\transforms-3\238ed949df5fdb4d6130d7264ea2ce50\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.recyclerview:recyclerview:1.1.0] D:\Aviro\androidProjects\caches\transforms-3\4659a54b24aad75dfecad694effdedef\transformed\recyclerview-1.1.0\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.customview:customview:1.0.0] D:\Aviro\androidProjects\caches\transforms-3\812f00c5057ebc2f25dda5c2fa57ad5f\transformed\customview-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.dynamicanimation:dynamicanimation:1.1.0-alpha03] D:\Aviro\androidProjects\caches\transforms-3\11bfa1688305fe8f5a67089279dbceec\transformed\dynamicanimation-1.1.0-alpha03\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.activity:activity:1.3.1] D:\Aviro\androidProjects\caches\transforms-3\4f9c49dec5885f2b2199741dc53093ea\transformed\activity-1.3.1\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.core:core:1.7.0-alpha01] D:\Aviro\androidProjects\caches\transforms-3\4371c5eed71dc381c4163c5e2c9f5cce\transformed\core-1.7.0-alpha01\AndroidManifest.xml:17:1-26:12
-MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] D:\Aviro\androidProjects\caches\transforms-3\01fd015b1ab91a3d0cbe708800583ef7\transformed\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] D:\Aviro\androidProjects\caches\transforms-3\b035b6b3efd67f2da89c68f653ac156e\transformed\lifecycle-viewmodel-savedstate-2.3.1\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.savedstate:savedstate:1.1.0] D:\Aviro\androidProjects\caches\transforms-3\7c8f15167d140444ef26e9783a88f0b1\transformed\savedstate-1.1.0\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] D:\Aviro\androidProjects\caches\transforms-3\62baf937185ce2b6056d9a41a694bbbe\transformed\lifecycle-viewmodel-2.3.1\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.cardview:cardview:1.0.0] D:\Aviro\androidProjects\caches\transforms-3\15929acc19a77aabdd81f82bf22bb87d\transformed\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.profileinstaller:profileinstaller:1.0.1] D:\Aviro\androidProjects\caches\transforms-3\01c9b37f290c5ef5be678c5d1dd0ec3d\transformed\profileinstaller-1.0.1\AndroidManifest.xml:17:1-48:12
-MERGED from [androidx.sqlite:sqlite-framework:2.2.0-alpha02] D:\Aviro\androidProjects\caches\transforms-3\99c5cacc4fe8f786b9d7519f03d3d0d8\transformed\sqlite-framework-2.2.0-alpha02\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.sqlite:sqlite:2.2.0-alpha02] D:\Aviro\androidProjects\caches\transforms-3\c81ca8e588900ec18b52a137fd227ff6\transformed\sqlite-2.2.0-alpha02\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] D:\Aviro\androidProjects\caches\transforms-3\18bc31d5e52ab49a290fabfe9dd4e0b4\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
-MERGED from [androidx.lifecycle:lifecycle-process:2.4.0-alpha02] D:\Aviro\androidProjects\caches\transforms-3\a41eb5c0cd622a3de41ff0a54a607c85\transformed\lifecycle-process-2.4.0-alpha02\AndroidManifest.xml:17:1-37:12
-MERGED from [androidx.startup:startup-runtime:1.0.0] D:\Aviro\androidProjects\caches\transforms-3\89233b0f36bf31af1856bc4d57bc09fe\transformed\startup-runtime-1.0.0\AndroidManifest.xml:17:1-33:12
-MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] D:\Aviro\androidProjects\caches\transforms-3\1d60edff7759230f8544eb5322d520f0\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] D:\Aviro\androidProjects\caches\transforms-3\059e52f1d12a870bc80e5abb6d8b8c16\transformed\lifecycle-livedata-core-2.3.1\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.lifecycle:lifecycle-runtime:2.4.0-alpha02] D:\Aviro\androidProjects\caches\transforms-3\fe626cc3adbd130acd155bf44b2f34af\transformed\lifecycle-runtime-2.4.0-alpha02\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.arch.core:core-runtime:2.1.0] D:\Aviro\androidProjects\caches\transforms-3\434da8faf9ba77e7763a1c524556bfbf\transformed\core-runtime-2.1.0\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.interpolator:interpolator:1.0.0] D:\Aviro\androidProjects\caches\transforms-3\00128fb6b87b6aaf49924c13d6fbf291\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.tracing:tracing:1.0.0] D:\Aviro\androidProjects\caches\transforms-3\8e240c76ccbdd7086da9ff511b8662cf\transformed\tracing-1.0.0\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.annotation:annotation-experimental:1.1.0] D:\Aviro\androidProjects\caches\transforms-3\d994c62dc5a3273b10a13b4d8ff12d8f\transformed\annotation-experimental-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.accompanist:accompanist-systemuicontroller:0.16.1] D:\Aviro\androidProjects\caches\transforms-3\131d9243d757bac20b4c47c0a3ce24d2\transformed\accompanist-systemuicontroller-0.16.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.accompanist:accompanist-insets:0.16.1] D:\Aviro\androidProjects\caches\transforms-3\e55f4ed8d5c98dc1ec800939982e9096\transformed\accompanist-insets-0.16.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.ui:ui-tooling:1.0.1] D:\Aviro\androidProjects\caches\transforms-3\d3d1863f5e1a6bd5ba5355a0256021a3\transformed\ui-tooling-1.0.1\AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.compose.material:material:1.0.1] D:\Aviro\androidProjects\caches\transforms-3\fcb079fdd745d026658147bc0d160f79\transformed\material-1.0.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity-compose:1.3.1] D:\Aviro\androidProjects\caches\transforms-3\6ae7b8b8831116d3230a70fc242845fa\transformed\activity-compose-1.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.paging:paging-compose:1.0.0-alpha12] D:\Aviro\androidProjects\caches\transforms-3\1afdda375ec2558c29bd3c25eb733cbf\transformed\paging-compose-1.0.0-alpha12\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.material:material-ripple:1.0.1] D:\Aviro\androidProjects\caches\transforms-3\c395fe1bfd31e87835884791dbf48dc1\transformed\material-ripple-1.0.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.foundation:foundation:1.0.1] D:\Aviro\androidProjects\caches\transforms-3\f71815632414b956e690fcbaf0d7027d\transformed\foundation-1.0.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.animation:animation:1.0.1] D:\Aviro\androidProjects\caches\transforms-3\3bc00c13ef4f9be3b792d778d0fdd13f\transformed\animation-1.0.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.animation:animation-core:1.0.1] D:\Aviro\androidProjects\caches\transforms-3\1a40aeb9b93e2c3203e491feda77e6ea\transformed\animation-core-1.0.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.material:material-icons-core:1.0.1] D:\Aviro\androidProjects\caches\transforms-3\477d340413164303c02a2583c3cbf054\transformed\material-icons-core-1.0.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.foundation:foundation-layout:1.0.1] D:\Aviro\androidProjects\caches\transforms-3\bc619fef7c8d56f1ec4aadda62e4c0e1\transformed\foundation-layout-1.0.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.ui:ui-tooling-data:1.0.1] D:\Aviro\androidProjects\caches\transforms-3\88c1aeffb2cf0c7d6a2a10015bc66980\transformed\ui-tooling-data-1.0.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.ui:ui:1.0.1] D:\Aviro\androidProjects\caches\transforms-3\ff71aeb3000d5ef3647cce4fa4afc923\transformed\ui-1.0.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity-ktx:1.3.1] D:\Aviro\androidProjects\caches\transforms-3\9af5ba77231469318b94284d0551bf46\transformed\activity-ktx-1.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.3.1] D:\Aviro\androidProjects\caches\transforms-3\a16a8501a2d15f39b915eb2b5f3115a3\transformed\lifecycle-runtime-ktx-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.room:room-ktx:2.4.0-alpha04] D:\Aviro\androidProjects\caches\transforms-3\83e7b71cf372844af3f5ac79b58dd902\transformed\room-ktx-2.4.0-alpha04\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.ui:ui-text:1.0.1] D:\Aviro\androidProjects\caches\transforms-3\12444a0b8c138d57095c520c96fc7358\transformed\ui-text-1.0.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.runtime:runtime-saveable:1.0.1] D:\Aviro\androidProjects\caches\transforms-3\d135aa40784841c49653ff9037181232\transformed\runtime-saveable-1.0.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.ui:ui-graphics:1.0.1] D:\Aviro\androidProjects\caches\transforms-3\e10c5e6bfccca7895adae5e32e62776e\transformed\ui-graphics-1.0.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.ui:ui-unit:1.0.1] D:\Aviro\androidProjects\caches\transforms-3\b82f18f29585881304599807beb2f00e\transformed\ui-unit-1.0.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.ui:ui-geometry:1.0.1] D:\Aviro\androidProjects\caches\transforms-3\9319cb937dd80bf086cfa7c04c782451\transformed\ui-geometry-1.0.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.ui:ui-tooling-preview:1.0.1] D:\Aviro\androidProjects\caches\transforms-3\f687114c0aec86f86f0bd95adb9de3ba\transformed\ui-tooling-preview-1.0.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.runtime:runtime:1.0.1] D:\Aviro\androidProjects\caches\transforms-3\89eef6b4e7f417992164e7860d7b8c47\transformed\runtime-1.0.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.3.1] D:\Aviro\androidProjects\caches\transforms-3\d80473f598e1b4376d676b0b22ec1eda\transformed\lifecycle-viewmodel-ktx-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core-ktx:1.6.0] D:\Aviro\androidProjects\caches\transforms-3\3ab2d0b3162dca91ecd6b72fbd20fb74\transformed\core-ktx-1.6.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.material:material:1.4.0] D:\Aviro\androidProjects\caches\transforms-3\1b0b224398cf32f10e94b4a9c0d6e2dc\transformed\material-1.4.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] D:\Aviro\androidProjects\caches\transforms-3\94e9fd74381e30ec52723e232fdacedd\transformed\constraintlayout-2.0.1\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.4.0-alpha03] D:\Aviro\androidProjects\caches\transforms-3\3260c7befaa398d4c1758b40a090f353\transformed\appcompat-1.4.0-alpha03\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.room:room-runtime:2.4.0-alpha04] D:\Aviro\androidProjects\caches\transforms-3\d886610a3d52a6c7706d568cdb165e20\transformed\room-runtime-2.4.0-alpha04\AndroidManifest.xml:17:1-31:12
+MERGED from [androidx.dynamicanimation:dynamicanimation-ktx:1.0.0-alpha03] D:\Aviro\androidProjects\caches\transforms-3\34a79e340d649a83fe554828252b37b9\transformed\dynamicanimation-ktx-1.0.0-alpha03\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.ui:ui-util:1.0.1] D:\Aviro\androidProjects\caches\transforms-3\6ea527ee47ca22e4e09a7ab64e7bf8c0\transformed\ui-util-1.0.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate-ktx:1.1.0] D:\Aviro\androidProjects\caches\transforms-3\37af707ec2354cbed198589264dff727\transformed\savedstate-ktx-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] D:\Aviro\androidProjects\caches\transforms-3\83235f5b35baee960ceb5d743ecc0882\transformed\viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.3.4] D:\Aviro\androidProjects\caches\transforms-3\79a652d69c4ec63cfcda3a8f431c4ccc\transformed\fragment-1.3.4\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.4.0-alpha03] D:\Aviro\androidProjects\caches\transforms-3\7296f65a3d1769e060bab4513b689b03\transformed\appcompat-resources-1.4.0-alpha03\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] D:\Aviro\androidProjects\caches\transforms-3\b2e5d718f269aa8043a14da67179578f\transformed\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.0.0-alpha03] D:\Aviro\androidProjects\caches\transforms-3\21ef68c79f1f6e4c0030a8c1aed4d728\transformed\emoji2-views-helper-1.0.0-alpha03\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.emoji2:emoji2:1.0.0-alpha03] D:\Aviro\androidProjects\caches\transforms-3\a9f27d0ec64e5c852e7bd5cd9f50c52c\transformed\emoji2-1.0.0-alpha03\AndroidManifest.xml:17:1-37:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] D:\Aviro\androidProjects\caches\transforms-3\458294a70165936de6431705d4b56cc2\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.2.0] D:\Aviro\androidProjects\caches\transforms-3\bcfe75b6b534aacfcee89cb27ea2bb38\transformed\transition-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] D:\Aviro\androidProjects\caches\transforms-3\73ddd50c6ea438bb3cb62ed09e2be437\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] D:\Aviro\androidProjects\caches\transforms-3\117e6d1c506e16e8440c89db6229b915\transformed\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.autofill:autofill:1.0.0] D:\Aviro\androidProjects\caches\transforms-3\1fb208fe9ea5d45856820527d1435246\transformed\autofill-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] D:\Aviro\androidProjects\caches\transforms-3\60706e4f75ea44b897b8d0baafcf51f0\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] D:\Aviro\androidProjects\caches\transforms-3\1d772ab5eb4f33439ef9024b07fda745\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] D:\Aviro\androidProjects\caches\transforms-3\6ff8d7dc8ac15de16434a620ace73572\transformed\recyclerview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] D:\Aviro\androidProjects\caches\transforms-3\5640ecc10c824bbee77c65709f8568b7\transformed\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.1.0-alpha03] D:\Aviro\androidProjects\caches\transforms-3\e3e460d0dc15cf18a4a55c8f2271b5a7\transformed\dynamicanimation-1.1.0-alpha03\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.3.1] D:\Aviro\androidProjects\caches\transforms-3\4e61d35eb5eaf79a5a9086993deb5acf\transformed\activity-1.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.7.0-alpha01] D:\Aviro\androidProjects\caches\transforms-3\01b2aeb20568a493d1e28241ede9fa50\transformed\core-1.7.0-alpha01\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] D:\Aviro\androidProjects\caches\transforms-3\822e07289732d374b9c86cf987644779\transformed\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] D:\Aviro\androidProjects\caches\transforms-3\aecec1a000f3704b09b9248cb530ba78\transformed\lifecycle-viewmodel-savedstate-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.1.0] D:\Aviro\androidProjects\caches\transforms-3\a74d6a930ec427f3085dfaffb02c1e4f\transformed\savedstate-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] D:\Aviro\androidProjects\caches\transforms-3\bcfed06c7c77340b5194d9f23ff8acbd\transformed\lifecycle-viewmodel-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cardview:cardview:1.0.0] D:\Aviro\androidProjects\caches\transforms-3\7f9bc056ca933bd74cf67988a9501b39\transformed\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.profileinstaller:profileinstaller:1.0.1] D:\Aviro\androidProjects\caches\transforms-3\40f6739bfc4a398d8df81a090f2e9ab2\transformed\profileinstaller-1.0.1\AndroidManifest.xml:17:1-48:12
+MERGED from [androidx.sqlite:sqlite-framework:2.2.0-alpha02] D:\Aviro\androidProjects\caches\transforms-3\1aea746989d5a311d890b8327c039a69\transformed\sqlite-framework-2.2.0-alpha02\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.sqlite:sqlite:2.2.0-alpha02] D:\Aviro\androidProjects\caches\transforms-3\23aed59f4831cda7d639e9a59b777b0d\transformed\sqlite-2.2.0-alpha02\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] D:\Aviro\androidProjects\caches\transforms-3\62cf865dd5b6113d001f5415a4031c94\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0-alpha02] D:\Aviro\androidProjects\caches\transforms-3\acaf0f6e939754b60e3f982128d1ac47\transformed\lifecycle-process-2.4.0-alpha02\AndroidManifest.xml:17:1-37:12
+MERGED from [androidx.startup:startup-runtime:1.0.0] D:\Aviro\androidProjects\caches\transforms-3\e92bf5af84b879ded108dec914bffcc5\transformed\startup-runtime-1.0.0\AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] D:\Aviro\androidProjects\caches\transforms-3\0bfdcb201ff694db5b6aed21366838d4\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] D:\Aviro\androidProjects\caches\transforms-3\05fa26be71c560e97c3573dc6792a12a\transformed\lifecycle-livedata-core-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.4.0-alpha02] D:\Aviro\androidProjects\caches\transforms-3\2047ae923e582f962a006389cb8869c3\transformed\lifecycle-runtime-2.4.0-alpha02\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] D:\Aviro\androidProjects\caches\transforms-3\eefc61477b7b010653c65bad3e6875f7\transformed\core-runtime-2.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] D:\Aviro\androidProjects\caches\transforms-3\c950df2ac6d71b85fad03f7f679228ad\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.tracing:tracing:1.0.0] D:\Aviro\androidProjects\caches\transforms-3\6221746350d3f89b869effc1f0ab910f\transformed\tracing-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] D:\Aviro\androidProjects\caches\transforms-3\af32a7b857f3da4c449a610855d74b14\transformed\annotation-experimental-1.1.0\AndroidManifest.xml:17:1-24:12
 INJECTED from D:\learnAndroid\word-dictionary\app\src\main\AndroidManifest.xml:36:1-61:12
 INJECTED from D:\learnAndroid\word-dictionary\app\src\main\AndroidManifest.xml:36:1-61:12
 INJECTED from D:\learnAndroid\word-dictionary\app\src\main\AndroidManifest.xml:36:1-61:12
@@ -96,28 +96,28 @@ ADDED from D:\learnAndroid\word-dictionary\app\src\main\AndroidManifest.xml:39:3
 		ADDED from D:\learnAndroid\word-dictionary\app\src\main\AndroidManifest.xml:39:20-62
 application
 ADDED from D:\learnAndroid\word-dictionary\app\src\main\AndroidManifest.xml:41:3-59:17
-MERGED from [androidx.compose.ui:ui-tooling:1.0.1] D:\Aviro\androidProjects\caches\transforms-3\dd9f22be2e8b59e77c1cecba5d3e403d\transformed\ui-tooling-1.0.1\AndroidManifest.xml:24:5-28:19
-MERGED from [androidx.compose.ui:ui-tooling:1.0.1] D:\Aviro\androidProjects\caches\transforms-3\dd9f22be2e8b59e77c1cecba5d3e403d\transformed\ui-tooling-1.0.1\AndroidManifest.xml:24:5-28:19
-MERGED from [com.google.android.material:material:1.4.0] D:\Aviro\androidProjects\caches\transforms-3\d225b9ceb1fef2f13166146fc2944697\transformed\material-1.4.0\AndroidManifest.xml:22:5-20
-MERGED from [com.google.android.material:material:1.4.0] D:\Aviro\androidProjects\caches\transforms-3\d225b9ceb1fef2f13166146fc2944697\transformed\material-1.4.0\AndroidManifest.xml:22:5-20
-MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] D:\Aviro\androidProjects\caches\transforms-3\3ad31827ad3f46cf61df08a5fe204852\transformed\constraintlayout-2.0.1\AndroidManifest.xml:9:5-20
-MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] D:\Aviro\androidProjects\caches\transforms-3\3ad31827ad3f46cf61df08a5fe204852\transformed\constraintlayout-2.0.1\AndroidManifest.xml:9:5-20
-MERGED from [androidx.room:room-runtime:2.4.0-alpha04] D:\Aviro\androidProjects\caches\transforms-3\6a84997e0609c6c059883ab4e37e559c\transformed\room-runtime-2.4.0-alpha04\AndroidManifest.xml:24:5-29:19
-MERGED from [androidx.room:room-runtime:2.4.0-alpha04] D:\Aviro\androidProjects\caches\transforms-3\6a84997e0609c6c059883ab4e37e559c\transformed\room-runtime-2.4.0-alpha04\AndroidManifest.xml:24:5-29:19
-MERGED from [androidx.emoji2:emoji2:1.0.0-alpha03] D:\Aviro\androidProjects\caches\transforms-3\ddece3dd8305a76f1eb6ac2eb8a5e755\transformed\emoji2-1.0.0-alpha03\AndroidManifest.xml:25:5-35:19
-MERGED from [androidx.emoji2:emoji2:1.0.0-alpha03] D:\Aviro\androidProjects\caches\transforms-3\ddece3dd8305a76f1eb6ac2eb8a5e755\transformed\emoji2-1.0.0-alpha03\AndroidManifest.xml:25:5-35:19
-MERGED from [androidx.core:core:1.7.0-alpha01] D:\Aviro\androidProjects\caches\transforms-3\4371c5eed71dc381c4163c5e2c9f5cce\transformed\core-1.7.0-alpha01\AndroidManifest.xml:24:5-89
-MERGED from [androidx.core:core:1.7.0-alpha01] D:\Aviro\androidProjects\caches\transforms-3\4371c5eed71dc381c4163c5e2c9f5cce\transformed\core-1.7.0-alpha01\AndroidManifest.xml:24:5-89
-MERGED from [androidx.profileinstaller:profileinstaller:1.0.1] D:\Aviro\androidProjects\caches\transforms-3\01c9b37f290c5ef5be678c5d1dd0ec3d\transformed\profileinstaller-1.0.1\AndroidManifest.xml:25:5-46:19
-MERGED from [androidx.profileinstaller:profileinstaller:1.0.1] D:\Aviro\androidProjects\caches\transforms-3\01c9b37f290c5ef5be678c5d1dd0ec3d\transformed\profileinstaller-1.0.1\AndroidManifest.xml:25:5-46:19
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] D:\Aviro\androidProjects\caches\transforms-3\18bc31d5e52ab49a290fabfe9dd4e0b4\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] D:\Aviro\androidProjects\caches\transforms-3\18bc31d5e52ab49a290fabfe9dd4e0b4\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
-MERGED from [androidx.lifecycle:lifecycle-process:2.4.0-alpha02] D:\Aviro\androidProjects\caches\transforms-3\a41eb5c0cd622a3de41ff0a54a607c85\transformed\lifecycle-process-2.4.0-alpha02\AndroidManifest.xml:25:5-35:19
-MERGED from [androidx.lifecycle:lifecycle-process:2.4.0-alpha02] D:\Aviro\androidProjects\caches\transforms-3\a41eb5c0cd622a3de41ff0a54a607c85\transformed\lifecycle-process-2.4.0-alpha02\AndroidManifest.xml:25:5-35:19
-MERGED from [androidx.startup:startup-runtime:1.0.0] D:\Aviro\androidProjects\caches\transforms-3\89233b0f36bf31af1856bc4d57bc09fe\transformed\startup-runtime-1.0.0\AndroidManifest.xml:25:5-31:19
-MERGED from [androidx.startup:startup-runtime:1.0.0] D:\Aviro\androidProjects\caches\transforms-3\89233b0f36bf31af1856bc4d57bc09fe\transformed\startup-runtime-1.0.0\AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.compose.ui:ui-tooling:1.0.1] D:\Aviro\androidProjects\caches\transforms-3\d3d1863f5e1a6bd5ba5355a0256021a3\transformed\ui-tooling-1.0.1\AndroidManifest.xml:24:5-28:19
+MERGED from [androidx.compose.ui:ui-tooling:1.0.1] D:\Aviro\androidProjects\caches\transforms-3\d3d1863f5e1a6bd5ba5355a0256021a3\transformed\ui-tooling-1.0.1\AndroidManifest.xml:24:5-28:19
+MERGED from [com.google.android.material:material:1.4.0] D:\Aviro\androidProjects\caches\transforms-3\1b0b224398cf32f10e94b4a9c0d6e2dc\transformed\material-1.4.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.4.0] D:\Aviro\androidProjects\caches\transforms-3\1b0b224398cf32f10e94b4a9c0d6e2dc\transformed\material-1.4.0\AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] D:\Aviro\androidProjects\caches\transforms-3\94e9fd74381e30ec52723e232fdacedd\transformed\constraintlayout-2.0.1\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] D:\Aviro\androidProjects\caches\transforms-3\94e9fd74381e30ec52723e232fdacedd\transformed\constraintlayout-2.0.1\AndroidManifest.xml:9:5-20
+MERGED from [androidx.room:room-runtime:2.4.0-alpha04] D:\Aviro\androidProjects\caches\transforms-3\d886610a3d52a6c7706d568cdb165e20\transformed\room-runtime-2.4.0-alpha04\AndroidManifest.xml:24:5-29:19
+MERGED from [androidx.room:room-runtime:2.4.0-alpha04] D:\Aviro\androidProjects\caches\transforms-3\d886610a3d52a6c7706d568cdb165e20\transformed\room-runtime-2.4.0-alpha04\AndroidManifest.xml:24:5-29:19
+MERGED from [androidx.emoji2:emoji2:1.0.0-alpha03] D:\Aviro\androidProjects\caches\transforms-3\a9f27d0ec64e5c852e7bd5cd9f50c52c\transformed\emoji2-1.0.0-alpha03\AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.emoji2:emoji2:1.0.0-alpha03] D:\Aviro\androidProjects\caches\transforms-3\a9f27d0ec64e5c852e7bd5cd9f50c52c\transformed\emoji2-1.0.0-alpha03\AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.core:core:1.7.0-alpha01] D:\Aviro\androidProjects\caches\transforms-3\01b2aeb20568a493d1e28241ede9fa50\transformed\core-1.7.0-alpha01\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.7.0-alpha01] D:\Aviro\androidProjects\caches\transforms-3\01b2aeb20568a493d1e28241ede9fa50\transformed\core-1.7.0-alpha01\AndroidManifest.xml:24:5-89
+MERGED from [androidx.profileinstaller:profileinstaller:1.0.1] D:\Aviro\androidProjects\caches\transforms-3\40f6739bfc4a398d8df81a090f2e9ab2\transformed\profileinstaller-1.0.1\AndroidManifest.xml:25:5-46:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.0.1] D:\Aviro\androidProjects\caches\transforms-3\40f6739bfc4a398d8df81a090f2e9ab2\transformed\profileinstaller-1.0.1\AndroidManifest.xml:25:5-46:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] D:\Aviro\androidProjects\caches\transforms-3\62cf865dd5b6113d001f5415a4031c94\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] D:\Aviro\androidProjects\caches\transforms-3\62cf865dd5b6113d001f5415a4031c94\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0-alpha02] D:\Aviro\androidProjects\caches\transforms-3\acaf0f6e939754b60e3f982128d1ac47\transformed\lifecycle-process-2.4.0-alpha02\AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0-alpha02] D:\Aviro\androidProjects\caches\transforms-3\acaf0f6e939754b60e3f982128d1ac47\transformed\lifecycle-process-2.4.0-alpha02\AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.startup:startup-runtime:1.0.0] D:\Aviro\androidProjects\caches\transforms-3\e92bf5af84b879ded108dec914bffcc5\transformed\startup-runtime-1.0.0\AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.0.0] D:\Aviro\androidProjects\caches\transforms-3\e92bf5af84b879ded108dec914bffcc5\transformed\startup-runtime-1.0.0\AndroidManifest.xml:25:5-31:19
 	android:appComponentFactory
-		ADDED from [androidx.core:core:1.7.0-alpha01] D:\Aviro\androidProjects\caches\transforms-3\4371c5eed71dc381c4163c5e2c9f5cce\transformed\core-1.7.0-alpha01\AndroidManifest.xml:24:18-86
+		ADDED from [androidx.core:core:1.7.0-alpha01] D:\Aviro\androidProjects\caches\transforms-3\01b2aeb20568a493d1e28241ede9fa50\transformed\core-1.7.0-alpha01\AndroidManifest.xml:24:18-86
 	android:supportsRtl
 		ADDED from D:\learnAndroid\word-dictionary\app\src\main\AndroidManifest.xml:46:5-31
 	android:label
@@ -154,144 +154,144 @@ uses-sdk
 INJECTED from D:\learnAndroid\word-dictionary\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from D:\learnAndroid\word-dictionary\app\src\main\AndroidManifest.xml
 INJECTED from D:\learnAndroid\word-dictionary\app\src\main\AndroidManifest.xml
-MERGED from [com.google.accompanist:accompanist-systemuicontroller:0.16.1] D:\Aviro\androidProjects\caches\transforms-3\a52a2a42fb24071794a3fa9aa34f4ce1\transformed\accompanist-systemuicontroller-0.16.1\AndroidManifest.xml:20:5-22:41
-MERGED from [com.google.accompanist:accompanist-systemuicontroller:0.16.1] D:\Aviro\androidProjects\caches\transforms-3\a52a2a42fb24071794a3fa9aa34f4ce1\transformed\accompanist-systemuicontroller-0.16.1\AndroidManifest.xml:20:5-22:41
-MERGED from [com.google.accompanist:accompanist-insets:0.16.1] D:\Aviro\androidProjects\caches\transforms-3\6f624fbb30ed35f1c02c9145b1d17711\transformed\accompanist-insets-0.16.1\AndroidManifest.xml:20:5-22:41
-MERGED from [com.google.accompanist:accompanist-insets:0.16.1] D:\Aviro\androidProjects\caches\transforms-3\6f624fbb30ed35f1c02c9145b1d17711\transformed\accompanist-insets-0.16.1\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.compose.ui:ui-tooling:1.0.1] D:\Aviro\androidProjects\caches\transforms-3\dd9f22be2e8b59e77c1cecba5d3e403d\transformed\ui-tooling-1.0.1\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.compose.ui:ui-tooling:1.0.1] D:\Aviro\androidProjects\caches\transforms-3\dd9f22be2e8b59e77c1cecba5d3e403d\transformed\ui-tooling-1.0.1\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.compose.material:material:1.0.1] D:\Aviro\androidProjects\caches\transforms-3\51b249a1bd02939e047903409232228b\transformed\material-1.0.1\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.compose.material:material:1.0.1] D:\Aviro\androidProjects\caches\transforms-3\51b249a1bd02939e047903409232228b\transformed\material-1.0.1\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.activity:activity-compose:1.3.1] D:\Aviro\androidProjects\caches\transforms-3\e4ee2ed46aac36abe0cef5c836b21d20\transformed\activity-compose-1.3.1\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.activity:activity-compose:1.3.1] D:\Aviro\androidProjects\caches\transforms-3\e4ee2ed46aac36abe0cef5c836b21d20\transformed\activity-compose-1.3.1\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.paging:paging-compose:1.0.0-alpha12] D:\Aviro\androidProjects\caches\transforms-3\72cc132b9c40708f5a78f1ac247621af\transformed\paging-compose-1.0.0-alpha12\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.paging:paging-compose:1.0.0-alpha12] D:\Aviro\androidProjects\caches\transforms-3\72cc132b9c40708f5a78f1ac247621af\transformed\paging-compose-1.0.0-alpha12\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.compose.material:material-ripple:1.0.1] D:\Aviro\androidProjects\caches\transforms-3\08b9905f7643f76f65a0c36314925039\transformed\material-ripple-1.0.1\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.compose.material:material-ripple:1.0.1] D:\Aviro\androidProjects\caches\transforms-3\08b9905f7643f76f65a0c36314925039\transformed\material-ripple-1.0.1\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.compose.foundation:foundation:1.0.1] D:\Aviro\androidProjects\caches\transforms-3\1e438b18d62ec98e76b0f98e2be88039\transformed\foundation-1.0.1\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.compose.foundation:foundation:1.0.1] D:\Aviro\androidProjects\caches\transforms-3\1e438b18d62ec98e76b0f98e2be88039\transformed\foundation-1.0.1\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.compose.animation:animation:1.0.1] D:\Aviro\androidProjects\caches\transforms-3\393541fcbb00b54f8774675aee6dab46\transformed\animation-1.0.1\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.compose.animation:animation:1.0.1] D:\Aviro\androidProjects\caches\transforms-3\393541fcbb00b54f8774675aee6dab46\transformed\animation-1.0.1\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.compose.animation:animation-core:1.0.1] D:\Aviro\androidProjects\caches\transforms-3\6e8778876f361eb842d09026888b49e0\transformed\animation-core-1.0.1\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.compose.animation:animation-core:1.0.1] D:\Aviro\androidProjects\caches\transforms-3\6e8778876f361eb842d09026888b49e0\transformed\animation-core-1.0.1\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.compose.material:material-icons-core:1.0.1] D:\Aviro\androidProjects\caches\transforms-3\d758ac9462675d532b30d94b18f66445\transformed\material-icons-core-1.0.1\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.compose.material:material-icons-core:1.0.1] D:\Aviro\androidProjects\caches\transforms-3\d758ac9462675d532b30d94b18f66445\transformed\material-icons-core-1.0.1\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.compose.foundation:foundation-layout:1.0.1] D:\Aviro\androidProjects\caches\transforms-3\51f3b418d1d08b33c7d0809b4dd07779\transformed\foundation-layout-1.0.1\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.compose.foundation:foundation-layout:1.0.1] D:\Aviro\androidProjects\caches\transforms-3\51f3b418d1d08b33c7d0809b4dd07779\transformed\foundation-layout-1.0.1\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.compose.ui:ui-tooling-data:1.0.1] D:\Aviro\androidProjects\caches\transforms-3\e34f16d8320fc40cad05419160d6b8ed\transformed\ui-tooling-data-1.0.1\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.compose.ui:ui-tooling-data:1.0.1] D:\Aviro\androidProjects\caches\transforms-3\e34f16d8320fc40cad05419160d6b8ed\transformed\ui-tooling-data-1.0.1\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.compose.ui:ui:1.0.1] D:\Aviro\androidProjects\caches\transforms-3\cf0d593ae862b1c40f970d48169cd16a\transformed\ui-1.0.1\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.compose.ui:ui:1.0.1] D:\Aviro\androidProjects\caches\transforms-3\cf0d593ae862b1c40f970d48169cd16a\transformed\ui-1.0.1\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.activity:activity-ktx:1.3.1] D:\Aviro\androidProjects\caches\transforms-3\7d56f2c70e8aa6e92ea8c2dc90525bc0\transformed\activity-ktx-1.3.1\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.activity:activity-ktx:1.3.1] D:\Aviro\androidProjects\caches\transforms-3\7d56f2c70e8aa6e92ea8c2dc90525bc0\transformed\activity-ktx-1.3.1\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.3.1] D:\Aviro\androidProjects\caches\transforms-3\db9a7d7a1169087879772be1cae7767b\transformed\lifecycle-runtime-ktx-2.3.1\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.3.1] D:\Aviro\androidProjects\caches\transforms-3\db9a7d7a1169087879772be1cae7767b\transformed\lifecycle-runtime-ktx-2.3.1\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.room:room-ktx:2.4.0-alpha04] D:\Aviro\androidProjects\caches\transforms-3\ff0530617cb901934a38350d245113fd\transformed\room-ktx-2.4.0-alpha04\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.room:room-ktx:2.4.0-alpha04] D:\Aviro\androidProjects\caches\transforms-3\ff0530617cb901934a38350d245113fd\transformed\room-ktx-2.4.0-alpha04\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.compose.ui:ui-text:1.0.1] D:\Aviro\androidProjects\caches\transforms-3\25b1e92adba0ff4441728edac1899488\transformed\ui-text-1.0.1\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.compose.ui:ui-text:1.0.1] D:\Aviro\androidProjects\caches\transforms-3\25b1e92adba0ff4441728edac1899488\transformed\ui-text-1.0.1\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.compose.runtime:runtime-saveable:1.0.1] D:\Aviro\androidProjects\caches\transforms-3\d69f02d972e866626c9a7b5e4f76f769\transformed\runtime-saveable-1.0.1\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.compose.runtime:runtime-saveable:1.0.1] D:\Aviro\androidProjects\caches\transforms-3\d69f02d972e866626c9a7b5e4f76f769\transformed\runtime-saveable-1.0.1\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.compose.ui:ui-graphics:1.0.1] D:\Aviro\androidProjects\caches\transforms-3\0da9b9e12550d9c1b7e210b1fef67aca\transformed\ui-graphics-1.0.1\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.compose.ui:ui-graphics:1.0.1] D:\Aviro\androidProjects\caches\transforms-3\0da9b9e12550d9c1b7e210b1fef67aca\transformed\ui-graphics-1.0.1\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.compose.ui:ui-unit:1.0.1] D:\Aviro\androidProjects\caches\transforms-3\43bbb61889a97a061a98ea5325c1589d\transformed\ui-unit-1.0.1\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.compose.ui:ui-unit:1.0.1] D:\Aviro\androidProjects\caches\transforms-3\43bbb61889a97a061a98ea5325c1589d\transformed\ui-unit-1.0.1\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.compose.ui:ui-geometry:1.0.1] D:\Aviro\androidProjects\caches\transforms-3\63805cfcae6d2474143e037e696f9b26\transformed\ui-geometry-1.0.1\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.compose.ui:ui-geometry:1.0.1] D:\Aviro\androidProjects\caches\transforms-3\63805cfcae6d2474143e037e696f9b26\transformed\ui-geometry-1.0.1\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.compose.ui:ui-tooling-preview:1.0.1] D:\Aviro\androidProjects\caches\transforms-3\e2129100361fb6614709d8d363a6adb9\transformed\ui-tooling-preview-1.0.1\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.compose.ui:ui-tooling-preview:1.0.1] D:\Aviro\androidProjects\caches\transforms-3\e2129100361fb6614709d8d363a6adb9\transformed\ui-tooling-preview-1.0.1\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.compose.runtime:runtime:1.0.1] D:\Aviro\androidProjects\caches\transforms-3\a996fd00ab2f9cc99917d3bc222f9823\transformed\runtime-1.0.1\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.compose.runtime:runtime:1.0.1] D:\Aviro\androidProjects\caches\transforms-3\a996fd00ab2f9cc99917d3bc222f9823\transformed\runtime-1.0.1\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.3.1] D:\Aviro\androidProjects\caches\transforms-3\457dfbdc7afa5174b530067c4d43a24c\transformed\lifecycle-viewmodel-ktx-2.3.1\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.3.1] D:\Aviro\androidProjects\caches\transforms-3\457dfbdc7afa5174b530067c4d43a24c\transformed\lifecycle-viewmodel-ktx-2.3.1\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.core:core-ktx:1.6.0] D:\Aviro\androidProjects\caches\transforms-3\112c063b4bdd420bbfc86d14b3267dd8\transformed\core-ktx-1.6.0\AndroidManifest.xml:5:5-7:41
-MERGED from [androidx.core:core-ktx:1.6.0] D:\Aviro\androidProjects\caches\transforms-3\112c063b4bdd420bbfc86d14b3267dd8\transformed\core-ktx-1.6.0\AndroidManifest.xml:5:5-7:41
-MERGED from [com.google.android.material:material:1.4.0] D:\Aviro\androidProjects\caches\transforms-3\d225b9ceb1fef2f13166146fc2944697\transformed\material-1.4.0\AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.material:material:1.4.0] D:\Aviro\androidProjects\caches\transforms-3\d225b9ceb1fef2f13166146fc2944697\transformed\material-1.4.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] D:\Aviro\androidProjects\caches\transforms-3\3ad31827ad3f46cf61df08a5fe204852\transformed\constraintlayout-2.0.1\AndroidManifest.xml:5:5-7:41
-MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] D:\Aviro\androidProjects\caches\transforms-3\3ad31827ad3f46cf61df08a5fe204852\transformed\constraintlayout-2.0.1\AndroidManifest.xml:5:5-7:41
-MERGED from [androidx.appcompat:appcompat:1.4.0-alpha03] D:\Aviro\androidProjects\caches\transforms-3\361062d5a3d867d8a04bc91e160fd82d\transformed\appcompat-1.4.0-alpha03\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.appcompat:appcompat:1.4.0-alpha03] D:\Aviro\androidProjects\caches\transforms-3\361062d5a3d867d8a04bc91e160fd82d\transformed\appcompat-1.4.0-alpha03\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.room:room-runtime:2.4.0-alpha04] D:\Aviro\androidProjects\caches\transforms-3\6a84997e0609c6c059883ab4e37e559c\transformed\room-runtime-2.4.0-alpha04\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.room:room-runtime:2.4.0-alpha04] D:\Aviro\androidProjects\caches\transforms-3\6a84997e0609c6c059883ab4e37e559c\transformed\room-runtime-2.4.0-alpha04\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.dynamicanimation:dynamicanimation-ktx:1.0.0-alpha03] D:\Aviro\androidProjects\caches\transforms-3\918906a8fcb73de29058d505681f3af4\transformed\dynamicanimation-ktx-1.0.0-alpha03\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.dynamicanimation:dynamicanimation-ktx:1.0.0-alpha03] D:\Aviro\androidProjects\caches\transforms-3\918906a8fcb73de29058d505681f3af4\transformed\dynamicanimation-ktx-1.0.0-alpha03\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.compose.ui:ui-util:1.0.1] D:\Aviro\androidProjects\caches\transforms-3\b13f5d4035ef3fe18410e17e2399042c\transformed\ui-util-1.0.1\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.compose.ui:ui-util:1.0.1] D:\Aviro\androidProjects\caches\transforms-3\b13f5d4035ef3fe18410e17e2399042c\transformed\ui-util-1.0.1\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.savedstate:savedstate-ktx:1.1.0] D:\Aviro\androidProjects\caches\transforms-3\d2cf5ba5b522df70cdd7e17972e6fcde\transformed\savedstate-ktx-1.1.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.savedstate:savedstate-ktx:1.1.0] D:\Aviro\androidProjects\caches\transforms-3\d2cf5ba5b522df70cdd7e17972e6fcde\transformed\savedstate-ktx-1.1.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.viewpager2:viewpager2:1.0.0] D:\Aviro\androidProjects\caches\transforms-3\f933f6b25b9bf65af074074a4a94fd3e\transformed\viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.viewpager2:viewpager2:1.0.0] D:\Aviro\androidProjects\caches\transforms-3\f933f6b25b9bf65af074074a4a94fd3e\transformed\viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.fragment:fragment:1.3.4] D:\Aviro\androidProjects\caches\transforms-3\d4908d9fefede62f959d0b8aa8ab1c03\transformed\fragment-1.3.4\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.fragment:fragment:1.3.4] D:\Aviro\androidProjects\caches\transforms-3\d4908d9fefede62f959d0b8aa8ab1c03\transformed\fragment-1.3.4\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.appcompat:appcompat-resources:1.4.0-alpha03] D:\Aviro\androidProjects\caches\transforms-3\4f7e9686636f1be5317b774a27522ba6\transformed\appcompat-resources-1.4.0-alpha03\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.appcompat:appcompat-resources:1.4.0-alpha03] D:\Aviro\androidProjects\caches\transforms-3\4f7e9686636f1be5317b774a27522ba6\transformed\appcompat-resources-1.4.0-alpha03\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] D:\Aviro\androidProjects\caches\transforms-3\6dbb52473eae0438dcb60aa275110801\transformed\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] D:\Aviro\androidProjects\caches\transforms-3\6dbb52473eae0438dcb60aa275110801\transformed\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.emoji2:emoji2-views-helper:1.0.0-alpha03] D:\Aviro\androidProjects\caches\transforms-3\0574f9fa9121b0d6437ffe827923c6fd\transformed\emoji2-views-helper-1.0.0-alpha03\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.emoji2:emoji2-views-helper:1.0.0-alpha03] D:\Aviro\androidProjects\caches\transforms-3\0574f9fa9121b0d6437ffe827923c6fd\transformed\emoji2-views-helper-1.0.0-alpha03\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.emoji2:emoji2:1.0.0-alpha03] D:\Aviro\androidProjects\caches\transforms-3\ddece3dd8305a76f1eb6ac2eb8a5e755\transformed\emoji2-1.0.0-alpha03\AndroidManifest.xml:21:5-23:41
-MERGED from [androidx.emoji2:emoji2:1.0.0-alpha03] D:\Aviro\androidProjects\caches\transforms-3\ddece3dd8305a76f1eb6ac2eb8a5e755\transformed\emoji2-1.0.0-alpha03\AndroidManifest.xml:21:5-23:41
-MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] D:\Aviro\androidProjects\caches\transforms-3\2b1c28fd2b2ca703b879b3dece4776ad\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] D:\Aviro\androidProjects\caches\transforms-3\2b1c28fd2b2ca703b879b3dece4776ad\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.transition:transition:1.2.0] D:\Aviro\androidProjects\caches\transforms-3\581d86125cf990adb76f485a78b0d1fe\transformed\transition-1.2.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.transition:transition:1.2.0] D:\Aviro\androidProjects\caches\transforms-3\581d86125cf990adb76f485a78b0d1fe\transformed\transition-1.2.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] D:\Aviro\androidProjects\caches\transforms-3\07743b7d8f12e48deec0640ea76a0ad6\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] D:\Aviro\androidProjects\caches\transforms-3\07743b7d8f12e48deec0640ea76a0ad6\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] D:\Aviro\androidProjects\caches\transforms-3\c663493624f4a3bc668e1ac9f8c1e55b\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] D:\Aviro\androidProjects\caches\transforms-3\c663493624f4a3bc668e1ac9f8c1e55b\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.autofill:autofill:1.0.0] D:\Aviro\androidProjects\caches\transforms-3\de28532c8184108c34e015679a7f4bd2\transformed\autofill-1.0.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.autofill:autofill:1.0.0] D:\Aviro\androidProjects\caches\transforms-3\de28532c8184108c34e015679a7f4bd2\transformed\autofill-1.0.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.viewpager:viewpager:1.0.0] D:\Aviro\androidProjects\caches\transforms-3\20c70eb5991cd94bbfac969663c98129\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.viewpager:viewpager:1.0.0] D:\Aviro\androidProjects\caches\transforms-3\20c70eb5991cd94bbfac969663c98129\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.loader:loader:1.0.0] D:\Aviro\androidProjects\caches\transforms-3\238ed949df5fdb4d6130d7264ea2ce50\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.loader:loader:1.0.0] D:\Aviro\androidProjects\caches\transforms-3\238ed949df5fdb4d6130d7264ea2ce50\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.recyclerview:recyclerview:1.1.0] D:\Aviro\androidProjects\caches\transforms-3\4659a54b24aad75dfecad694effdedef\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.recyclerview:recyclerview:1.1.0] D:\Aviro\androidProjects\caches\transforms-3\4659a54b24aad75dfecad694effdedef\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.customview:customview:1.0.0] D:\Aviro\androidProjects\caches\transforms-3\812f00c5057ebc2f25dda5c2fa57ad5f\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.customview:customview:1.0.0] D:\Aviro\androidProjects\caches\transforms-3\812f00c5057ebc2f25dda5c2fa57ad5f\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.dynamicanimation:dynamicanimation:1.1.0-alpha03] D:\Aviro\androidProjects\caches\transforms-3\11bfa1688305fe8f5a67089279dbceec\transformed\dynamicanimation-1.1.0-alpha03\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.dynamicanimation:dynamicanimation:1.1.0-alpha03] D:\Aviro\androidProjects\caches\transforms-3\11bfa1688305fe8f5a67089279dbceec\transformed\dynamicanimation-1.1.0-alpha03\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.activity:activity:1.3.1] D:\Aviro\androidProjects\caches\transforms-3\4f9c49dec5885f2b2199741dc53093ea\transformed\activity-1.3.1\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.activity:activity:1.3.1] D:\Aviro\androidProjects\caches\transforms-3\4f9c49dec5885f2b2199741dc53093ea\transformed\activity-1.3.1\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.core:core:1.7.0-alpha01] D:\Aviro\androidProjects\caches\transforms-3\4371c5eed71dc381c4163c5e2c9f5cce\transformed\core-1.7.0-alpha01\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.core:core:1.7.0-alpha01] D:\Aviro\androidProjects\caches\transforms-3\4371c5eed71dc381c4163c5e2c9f5cce\transformed\core-1.7.0-alpha01\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] D:\Aviro\androidProjects\caches\transforms-3\01fd015b1ab91a3d0cbe708800583ef7\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] D:\Aviro\androidProjects\caches\transforms-3\01fd015b1ab91a3d0cbe708800583ef7\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] D:\Aviro\androidProjects\caches\transforms-3\b035b6b3efd67f2da89c68f653ac156e\transformed\lifecycle-viewmodel-savedstate-2.3.1\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] D:\Aviro\androidProjects\caches\transforms-3\b035b6b3efd67f2da89c68f653ac156e\transformed\lifecycle-viewmodel-savedstate-2.3.1\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.savedstate:savedstate:1.1.0] D:\Aviro\androidProjects\caches\transforms-3\7c8f15167d140444ef26e9783a88f0b1\transformed\savedstate-1.1.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.savedstate:savedstate:1.1.0] D:\Aviro\androidProjects\caches\transforms-3\7c8f15167d140444ef26e9783a88f0b1\transformed\savedstate-1.1.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] D:\Aviro\androidProjects\caches\transforms-3\62baf937185ce2b6056d9a41a694bbbe\transformed\lifecycle-viewmodel-2.3.1\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] D:\Aviro\androidProjects\caches\transforms-3\62baf937185ce2b6056d9a41a694bbbe\transformed\lifecycle-viewmodel-2.3.1\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.cardview:cardview:1.0.0] D:\Aviro\androidProjects\caches\transforms-3\15929acc19a77aabdd81f82bf22bb87d\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.cardview:cardview:1.0.0] D:\Aviro\androidProjects\caches\transforms-3\15929acc19a77aabdd81f82bf22bb87d\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.profileinstaller:profileinstaller:1.0.1] D:\Aviro\androidProjects\caches\transforms-3\01c9b37f290c5ef5be678c5d1dd0ec3d\transformed\profileinstaller-1.0.1\AndroidManifest.xml:21:5-23:41
-MERGED from [androidx.profileinstaller:profileinstaller:1.0.1] D:\Aviro\androidProjects\caches\transforms-3\01c9b37f290c5ef5be678c5d1dd0ec3d\transformed\profileinstaller-1.0.1\AndroidManifest.xml:21:5-23:41
-MERGED from [androidx.sqlite:sqlite-framework:2.2.0-alpha02] D:\Aviro\androidProjects\caches\transforms-3\99c5cacc4fe8f786b9d7519f03d3d0d8\transformed\sqlite-framework-2.2.0-alpha02\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.sqlite:sqlite-framework:2.2.0-alpha02] D:\Aviro\androidProjects\caches\transforms-3\99c5cacc4fe8f786b9d7519f03d3d0d8\transformed\sqlite-framework-2.2.0-alpha02\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.sqlite:sqlite:2.2.0-alpha02] D:\Aviro\androidProjects\caches\transforms-3\c81ca8e588900ec18b52a137fd227ff6\transformed\sqlite-2.2.0-alpha02\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.sqlite:sqlite:2.2.0-alpha02] D:\Aviro\androidProjects\caches\transforms-3\c81ca8e588900ec18b52a137fd227ff6\transformed\sqlite-2.2.0-alpha02\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] D:\Aviro\androidProjects\caches\transforms-3\18bc31d5e52ab49a290fabfe9dd4e0b4\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] D:\Aviro\androidProjects\caches\transforms-3\18bc31d5e52ab49a290fabfe9dd4e0b4\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.lifecycle:lifecycle-process:2.4.0-alpha02] D:\Aviro\androidProjects\caches\transforms-3\a41eb5c0cd622a3de41ff0a54a607c85\transformed\lifecycle-process-2.4.0-alpha02\AndroidManifest.xml:21:5-23:41
-MERGED from [androidx.lifecycle:lifecycle-process:2.4.0-alpha02] D:\Aviro\androidProjects\caches\transforms-3\a41eb5c0cd622a3de41ff0a54a607c85\transformed\lifecycle-process-2.4.0-alpha02\AndroidManifest.xml:21:5-23:41
-MERGED from [androidx.startup:startup-runtime:1.0.0] D:\Aviro\androidProjects\caches\transforms-3\89233b0f36bf31af1856bc4d57bc09fe\transformed\startup-runtime-1.0.0\AndroidManifest.xml:21:5-23:41
-MERGED from [androidx.startup:startup-runtime:1.0.0] D:\Aviro\androidProjects\caches\transforms-3\89233b0f36bf31af1856bc4d57bc09fe\transformed\startup-runtime-1.0.0\AndroidManifest.xml:21:5-23:41
-MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] D:\Aviro\androidProjects\caches\transforms-3\1d60edff7759230f8544eb5322d520f0\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] D:\Aviro\androidProjects\caches\transforms-3\1d60edff7759230f8544eb5322d520f0\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] D:\Aviro\androidProjects\caches\transforms-3\059e52f1d12a870bc80e5abb6d8b8c16\transformed\lifecycle-livedata-core-2.3.1\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] D:\Aviro\androidProjects\caches\transforms-3\059e52f1d12a870bc80e5abb6d8b8c16\transformed\lifecycle-livedata-core-2.3.1\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.lifecycle:lifecycle-runtime:2.4.0-alpha02] D:\Aviro\androidProjects\caches\transforms-3\fe626cc3adbd130acd155bf44b2f34af\transformed\lifecycle-runtime-2.4.0-alpha02\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.lifecycle:lifecycle-runtime:2.4.0-alpha02] D:\Aviro\androidProjects\caches\transforms-3\fe626cc3adbd130acd155bf44b2f34af\transformed\lifecycle-runtime-2.4.0-alpha02\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.arch.core:core-runtime:2.1.0] D:\Aviro\androidProjects\caches\transforms-3\434da8faf9ba77e7763a1c524556bfbf\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.arch.core:core-runtime:2.1.0] D:\Aviro\androidProjects\caches\transforms-3\434da8faf9ba77e7763a1c524556bfbf\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.interpolator:interpolator:1.0.0] D:\Aviro\androidProjects\caches\transforms-3\00128fb6b87b6aaf49924c13d6fbf291\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.interpolator:interpolator:1.0.0] D:\Aviro\androidProjects\caches\transforms-3\00128fb6b87b6aaf49924c13d6fbf291\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.tracing:tracing:1.0.0] D:\Aviro\androidProjects\caches\transforms-3\8e240c76ccbdd7086da9ff511b8662cf\transformed\tracing-1.0.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.tracing:tracing:1.0.0] D:\Aviro\androidProjects\caches\transforms-3\8e240c76ccbdd7086da9ff511b8662cf\transformed\tracing-1.0.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.annotation:annotation-experimental:1.1.0] D:\Aviro\androidProjects\caches\transforms-3\d994c62dc5a3273b10a13b4d8ff12d8f\transformed\annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.annotation:annotation-experimental:1.1.0] D:\Aviro\androidProjects\caches\transforms-3\d994c62dc5a3273b10a13b4d8ff12d8f\transformed\annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.accompanist:accompanist-systemuicontroller:0.16.1] D:\Aviro\androidProjects\caches\transforms-3\131d9243d757bac20b4c47c0a3ce24d2\transformed\accompanist-systemuicontroller-0.16.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.accompanist:accompanist-systemuicontroller:0.16.1] D:\Aviro\androidProjects\caches\transforms-3\131d9243d757bac20b4c47c0a3ce24d2\transformed\accompanist-systemuicontroller-0.16.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.accompanist:accompanist-insets:0.16.1] D:\Aviro\androidProjects\caches\transforms-3\e55f4ed8d5c98dc1ec800939982e9096\transformed\accompanist-insets-0.16.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.accompanist:accompanist-insets:0.16.1] D:\Aviro\androidProjects\caches\transforms-3\e55f4ed8d5c98dc1ec800939982e9096\transformed\accompanist-insets-0.16.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.ui:ui-tooling:1.0.1] D:\Aviro\androidProjects\caches\transforms-3\d3d1863f5e1a6bd5ba5355a0256021a3\transformed\ui-tooling-1.0.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.ui:ui-tooling:1.0.1] D:\Aviro\androidProjects\caches\transforms-3\d3d1863f5e1a6bd5ba5355a0256021a3\transformed\ui-tooling-1.0.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.material:material:1.0.1] D:\Aviro\androidProjects\caches\transforms-3\fcb079fdd745d026658147bc0d160f79\transformed\material-1.0.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.material:material:1.0.1] D:\Aviro\androidProjects\caches\transforms-3\fcb079fdd745d026658147bc0d160f79\transformed\material-1.0.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-compose:1.3.1] D:\Aviro\androidProjects\caches\transforms-3\6ae7b8b8831116d3230a70fc242845fa\transformed\activity-compose-1.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-compose:1.3.1] D:\Aviro\androidProjects\caches\transforms-3\6ae7b8b8831116d3230a70fc242845fa\transformed\activity-compose-1.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.paging:paging-compose:1.0.0-alpha12] D:\Aviro\androidProjects\caches\transforms-3\1afdda375ec2558c29bd3c25eb733cbf\transformed\paging-compose-1.0.0-alpha12\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.paging:paging-compose:1.0.0-alpha12] D:\Aviro\androidProjects\caches\transforms-3\1afdda375ec2558c29bd3c25eb733cbf\transformed\paging-compose-1.0.0-alpha12\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.material:material-ripple:1.0.1] D:\Aviro\androidProjects\caches\transforms-3\c395fe1bfd31e87835884791dbf48dc1\transformed\material-ripple-1.0.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.material:material-ripple:1.0.1] D:\Aviro\androidProjects\caches\transforms-3\c395fe1bfd31e87835884791dbf48dc1\transformed\material-ripple-1.0.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.foundation:foundation:1.0.1] D:\Aviro\androidProjects\caches\transforms-3\f71815632414b956e690fcbaf0d7027d\transformed\foundation-1.0.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.foundation:foundation:1.0.1] D:\Aviro\androidProjects\caches\transforms-3\f71815632414b956e690fcbaf0d7027d\transformed\foundation-1.0.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.animation:animation:1.0.1] D:\Aviro\androidProjects\caches\transforms-3\3bc00c13ef4f9be3b792d778d0fdd13f\transformed\animation-1.0.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.animation:animation:1.0.1] D:\Aviro\androidProjects\caches\transforms-3\3bc00c13ef4f9be3b792d778d0fdd13f\transformed\animation-1.0.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.animation:animation-core:1.0.1] D:\Aviro\androidProjects\caches\transforms-3\1a40aeb9b93e2c3203e491feda77e6ea\transformed\animation-core-1.0.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.animation:animation-core:1.0.1] D:\Aviro\androidProjects\caches\transforms-3\1a40aeb9b93e2c3203e491feda77e6ea\transformed\animation-core-1.0.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.material:material-icons-core:1.0.1] D:\Aviro\androidProjects\caches\transforms-3\477d340413164303c02a2583c3cbf054\transformed\material-icons-core-1.0.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.material:material-icons-core:1.0.1] D:\Aviro\androidProjects\caches\transforms-3\477d340413164303c02a2583c3cbf054\transformed\material-icons-core-1.0.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.foundation:foundation-layout:1.0.1] D:\Aviro\androidProjects\caches\transforms-3\bc619fef7c8d56f1ec4aadda62e4c0e1\transformed\foundation-layout-1.0.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.foundation:foundation-layout:1.0.1] D:\Aviro\androidProjects\caches\transforms-3\bc619fef7c8d56f1ec4aadda62e4c0e1\transformed\foundation-layout-1.0.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.ui:ui-tooling-data:1.0.1] D:\Aviro\androidProjects\caches\transforms-3\88c1aeffb2cf0c7d6a2a10015bc66980\transformed\ui-tooling-data-1.0.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.ui:ui-tooling-data:1.0.1] D:\Aviro\androidProjects\caches\transforms-3\88c1aeffb2cf0c7d6a2a10015bc66980\transformed\ui-tooling-data-1.0.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.ui:ui:1.0.1] D:\Aviro\androidProjects\caches\transforms-3\ff71aeb3000d5ef3647cce4fa4afc923\transformed\ui-1.0.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.ui:ui:1.0.1] D:\Aviro\androidProjects\caches\transforms-3\ff71aeb3000d5ef3647cce4fa4afc923\transformed\ui-1.0.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-ktx:1.3.1] D:\Aviro\androidProjects\caches\transforms-3\9af5ba77231469318b94284d0551bf46\transformed\activity-ktx-1.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-ktx:1.3.1] D:\Aviro\androidProjects\caches\transforms-3\9af5ba77231469318b94284d0551bf46\transformed\activity-ktx-1.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.3.1] D:\Aviro\androidProjects\caches\transforms-3\a16a8501a2d15f39b915eb2b5f3115a3\transformed\lifecycle-runtime-ktx-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.3.1] D:\Aviro\androidProjects\caches\transforms-3\a16a8501a2d15f39b915eb2b5f3115a3\transformed\lifecycle-runtime-ktx-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.room:room-ktx:2.4.0-alpha04] D:\Aviro\androidProjects\caches\transforms-3\83e7b71cf372844af3f5ac79b58dd902\transformed\room-ktx-2.4.0-alpha04\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.room:room-ktx:2.4.0-alpha04] D:\Aviro\androidProjects\caches\transforms-3\83e7b71cf372844af3f5ac79b58dd902\transformed\room-ktx-2.4.0-alpha04\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.ui:ui-text:1.0.1] D:\Aviro\androidProjects\caches\transforms-3\12444a0b8c138d57095c520c96fc7358\transformed\ui-text-1.0.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.ui:ui-text:1.0.1] D:\Aviro\androidProjects\caches\transforms-3\12444a0b8c138d57095c520c96fc7358\transformed\ui-text-1.0.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.runtime:runtime-saveable:1.0.1] D:\Aviro\androidProjects\caches\transforms-3\d135aa40784841c49653ff9037181232\transformed\runtime-saveable-1.0.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.runtime:runtime-saveable:1.0.1] D:\Aviro\androidProjects\caches\transforms-3\d135aa40784841c49653ff9037181232\transformed\runtime-saveable-1.0.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.ui:ui-graphics:1.0.1] D:\Aviro\androidProjects\caches\transforms-3\e10c5e6bfccca7895adae5e32e62776e\transformed\ui-graphics-1.0.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.ui:ui-graphics:1.0.1] D:\Aviro\androidProjects\caches\transforms-3\e10c5e6bfccca7895adae5e32e62776e\transformed\ui-graphics-1.0.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.ui:ui-unit:1.0.1] D:\Aviro\androidProjects\caches\transforms-3\b82f18f29585881304599807beb2f00e\transformed\ui-unit-1.0.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.ui:ui-unit:1.0.1] D:\Aviro\androidProjects\caches\transforms-3\b82f18f29585881304599807beb2f00e\transformed\ui-unit-1.0.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.ui:ui-geometry:1.0.1] D:\Aviro\androidProjects\caches\transforms-3\9319cb937dd80bf086cfa7c04c782451\transformed\ui-geometry-1.0.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.ui:ui-geometry:1.0.1] D:\Aviro\androidProjects\caches\transforms-3\9319cb937dd80bf086cfa7c04c782451\transformed\ui-geometry-1.0.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.ui:ui-tooling-preview:1.0.1] D:\Aviro\androidProjects\caches\transforms-3\f687114c0aec86f86f0bd95adb9de3ba\transformed\ui-tooling-preview-1.0.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.ui:ui-tooling-preview:1.0.1] D:\Aviro\androidProjects\caches\transforms-3\f687114c0aec86f86f0bd95adb9de3ba\transformed\ui-tooling-preview-1.0.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.runtime:runtime:1.0.1] D:\Aviro\androidProjects\caches\transforms-3\89eef6b4e7f417992164e7860d7b8c47\transformed\runtime-1.0.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.runtime:runtime:1.0.1] D:\Aviro\androidProjects\caches\transforms-3\89eef6b4e7f417992164e7860d7b8c47\transformed\runtime-1.0.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.3.1] D:\Aviro\androidProjects\caches\transforms-3\d80473f598e1b4376d676b0b22ec1eda\transformed\lifecycle-viewmodel-ktx-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.3.1] D:\Aviro\androidProjects\caches\transforms-3\d80473f598e1b4376d676b0b22ec1eda\transformed\lifecycle-viewmodel-ktx-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core-ktx:1.6.0] D:\Aviro\androidProjects\caches\transforms-3\3ab2d0b3162dca91ecd6b72fbd20fb74\transformed\core-ktx-1.6.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.6.0] D:\Aviro\androidProjects\caches\transforms-3\3ab2d0b3162dca91ecd6b72fbd20fb74\transformed\core-ktx-1.6.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.material:material:1.4.0] D:\Aviro\androidProjects\caches\transforms-3\1b0b224398cf32f10e94b4a9c0d6e2dc\transformed\material-1.4.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.4.0] D:\Aviro\androidProjects\caches\transforms-3\1b0b224398cf32f10e94b4a9c0d6e2dc\transformed\material-1.4.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] D:\Aviro\androidProjects\caches\transforms-3\94e9fd74381e30ec52723e232fdacedd\transformed\constraintlayout-2.0.1\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] D:\Aviro\androidProjects\caches\transforms-3\94e9fd74381e30ec52723e232fdacedd\transformed\constraintlayout-2.0.1\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.4.0-alpha03] D:\Aviro\androidProjects\caches\transforms-3\3260c7befaa398d4c1758b40a090f353\transformed\appcompat-1.4.0-alpha03\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.4.0-alpha03] D:\Aviro\androidProjects\caches\transforms-3\3260c7befaa398d4c1758b40a090f353\transformed\appcompat-1.4.0-alpha03\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.room:room-runtime:2.4.0-alpha04] D:\Aviro\androidProjects\caches\transforms-3\d886610a3d52a6c7706d568cdb165e20\transformed\room-runtime-2.4.0-alpha04\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.room:room-runtime:2.4.0-alpha04] D:\Aviro\androidProjects\caches\transforms-3\d886610a3d52a6c7706d568cdb165e20\transformed\room-runtime-2.4.0-alpha04\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.dynamicanimation:dynamicanimation-ktx:1.0.0-alpha03] D:\Aviro\androidProjects\caches\transforms-3\34a79e340d649a83fe554828252b37b9\transformed\dynamicanimation-ktx-1.0.0-alpha03\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.dynamicanimation:dynamicanimation-ktx:1.0.0-alpha03] D:\Aviro\androidProjects\caches\transforms-3\34a79e340d649a83fe554828252b37b9\transformed\dynamicanimation-ktx-1.0.0-alpha03\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.ui:ui-util:1.0.1] D:\Aviro\androidProjects\caches\transforms-3\6ea527ee47ca22e4e09a7ab64e7bf8c0\transformed\ui-util-1.0.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.ui:ui-util:1.0.1] D:\Aviro\androidProjects\caches\transforms-3\6ea527ee47ca22e4e09a7ab64e7bf8c0\transformed\ui-util-1.0.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate-ktx:1.1.0] D:\Aviro\androidProjects\caches\transforms-3\37af707ec2354cbed198589264dff727\transformed\savedstate-ktx-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate-ktx:1.1.0] D:\Aviro\androidProjects\caches\transforms-3\37af707ec2354cbed198589264dff727\transformed\savedstate-ktx-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] D:\Aviro\androidProjects\caches\transforms-3\83235f5b35baee960ceb5d743ecc0882\transformed\viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] D:\Aviro\androidProjects\caches\transforms-3\83235f5b35baee960ceb5d743ecc0882\transformed\viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.4] D:\Aviro\androidProjects\caches\transforms-3\79a652d69c4ec63cfcda3a8f431c4ccc\transformed\fragment-1.3.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.4] D:\Aviro\androidProjects\caches\transforms-3\79a652d69c4ec63cfcda3a8f431c4ccc\transformed\fragment-1.3.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.4.0-alpha03] D:\Aviro\androidProjects\caches\transforms-3\7296f65a3d1769e060bab4513b689b03\transformed\appcompat-resources-1.4.0-alpha03\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.4.0-alpha03] D:\Aviro\androidProjects\caches\transforms-3\7296f65a3d1769e060bab4513b689b03\transformed\appcompat-resources-1.4.0-alpha03\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] D:\Aviro\androidProjects\caches\transforms-3\b2e5d718f269aa8043a14da67179578f\transformed\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] D:\Aviro\androidProjects\caches\transforms-3\b2e5d718f269aa8043a14da67179578f\transformed\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.0.0-alpha03] D:\Aviro\androidProjects\caches\transforms-3\21ef68c79f1f6e4c0030a8c1aed4d728\transformed\emoji2-views-helper-1.0.0-alpha03\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.emoji2:emoji2-views-helper:1.0.0-alpha03] D:\Aviro\androidProjects\caches\transforms-3\21ef68c79f1f6e4c0030a8c1aed4d728\transformed\emoji2-views-helper-1.0.0-alpha03\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.emoji2:emoji2:1.0.0-alpha03] D:\Aviro\androidProjects\caches\transforms-3\a9f27d0ec64e5c852e7bd5cd9f50c52c\transformed\emoji2-1.0.0-alpha03\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.emoji2:emoji2:1.0.0-alpha03] D:\Aviro\androidProjects\caches\transforms-3\a9f27d0ec64e5c852e7bd5cd9f50c52c\transformed\emoji2-1.0.0-alpha03\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] D:\Aviro\androidProjects\caches\transforms-3\458294a70165936de6431705d4b56cc2\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] D:\Aviro\androidProjects\caches\transforms-3\458294a70165936de6431705d4b56cc2\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] D:\Aviro\androidProjects\caches\transforms-3\bcfe75b6b534aacfcee89cb27ea2bb38\transformed\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] D:\Aviro\androidProjects\caches\transforms-3\bcfe75b6b534aacfcee89cb27ea2bb38\transformed\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] D:\Aviro\androidProjects\caches\transforms-3\73ddd50c6ea438bb3cb62ed09e2be437\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] D:\Aviro\androidProjects\caches\transforms-3\73ddd50c6ea438bb3cb62ed09e2be437\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] D:\Aviro\androidProjects\caches\transforms-3\117e6d1c506e16e8440c89db6229b915\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] D:\Aviro\androidProjects\caches\transforms-3\117e6d1c506e16e8440c89db6229b915\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.autofill:autofill:1.0.0] D:\Aviro\androidProjects\caches\transforms-3\1fb208fe9ea5d45856820527d1435246\transformed\autofill-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.autofill:autofill:1.0.0] D:\Aviro\androidProjects\caches\transforms-3\1fb208fe9ea5d45856820527d1435246\transformed\autofill-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] D:\Aviro\androidProjects\caches\transforms-3\60706e4f75ea44b897b8d0baafcf51f0\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] D:\Aviro\androidProjects\caches\transforms-3\60706e4f75ea44b897b8d0baafcf51f0\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] D:\Aviro\androidProjects\caches\transforms-3\1d772ab5eb4f33439ef9024b07fda745\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] D:\Aviro\androidProjects\caches\transforms-3\1d772ab5eb4f33439ef9024b07fda745\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] D:\Aviro\androidProjects\caches\transforms-3\6ff8d7dc8ac15de16434a620ace73572\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] D:\Aviro\androidProjects\caches\transforms-3\6ff8d7dc8ac15de16434a620ace73572\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] D:\Aviro\androidProjects\caches\transforms-3\5640ecc10c824bbee77c65709f8568b7\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] D:\Aviro\androidProjects\caches\transforms-3\5640ecc10c824bbee77c65709f8568b7\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.1.0-alpha03] D:\Aviro\androidProjects\caches\transforms-3\e3e460d0dc15cf18a4a55c8f2271b5a7\transformed\dynamicanimation-1.1.0-alpha03\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.1.0-alpha03] D:\Aviro\androidProjects\caches\transforms-3\e3e460d0dc15cf18a4a55c8f2271b5a7\transformed\dynamicanimation-1.1.0-alpha03\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.3.1] D:\Aviro\androidProjects\caches\transforms-3\4e61d35eb5eaf79a5a9086993deb5acf\transformed\activity-1.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.3.1] D:\Aviro\androidProjects\caches\transforms-3\4e61d35eb5eaf79a5a9086993deb5acf\transformed\activity-1.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.7.0-alpha01] D:\Aviro\androidProjects\caches\transforms-3\01b2aeb20568a493d1e28241ede9fa50\transformed\core-1.7.0-alpha01\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.7.0-alpha01] D:\Aviro\androidProjects\caches\transforms-3\01b2aeb20568a493d1e28241ede9fa50\transformed\core-1.7.0-alpha01\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] D:\Aviro\androidProjects\caches\transforms-3\822e07289732d374b9c86cf987644779\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] D:\Aviro\androidProjects\caches\transforms-3\822e07289732d374b9c86cf987644779\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] D:\Aviro\androidProjects\caches\transforms-3\aecec1a000f3704b09b9248cb530ba78\transformed\lifecycle-viewmodel-savedstate-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] D:\Aviro\androidProjects\caches\transforms-3\aecec1a000f3704b09b9248cb530ba78\transformed\lifecycle-viewmodel-savedstate-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] D:\Aviro\androidProjects\caches\transforms-3\a74d6a930ec427f3085dfaffb02c1e4f\transformed\savedstate-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] D:\Aviro\androidProjects\caches\transforms-3\a74d6a930ec427f3085dfaffb02c1e4f\transformed\savedstate-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] D:\Aviro\androidProjects\caches\transforms-3\bcfed06c7c77340b5194d9f23ff8acbd\transformed\lifecycle-viewmodel-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] D:\Aviro\androidProjects\caches\transforms-3\bcfed06c7c77340b5194d9f23ff8acbd\transformed\lifecycle-viewmodel-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] D:\Aviro\androidProjects\caches\transforms-3\7f9bc056ca933bd74cf67988a9501b39\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] D:\Aviro\androidProjects\caches\transforms-3\7f9bc056ca933bd74cf67988a9501b39\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.0.1] D:\Aviro\androidProjects\caches\transforms-3\40f6739bfc4a398d8df81a090f2e9ab2\transformed\profileinstaller-1.0.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.profileinstaller:profileinstaller:1.0.1] D:\Aviro\androidProjects\caches\transforms-3\40f6739bfc4a398d8df81a090f2e9ab2\transformed\profileinstaller-1.0.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.sqlite:sqlite-framework:2.2.0-alpha02] D:\Aviro\androidProjects\caches\transforms-3\1aea746989d5a311d890b8327c039a69\transformed\sqlite-framework-2.2.0-alpha02\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite-framework:2.2.0-alpha02] D:\Aviro\androidProjects\caches\transforms-3\1aea746989d5a311d890b8327c039a69\transformed\sqlite-framework-2.2.0-alpha02\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite:2.2.0-alpha02] D:\Aviro\androidProjects\caches\transforms-3\23aed59f4831cda7d639e9a59b777b0d\transformed\sqlite-2.2.0-alpha02\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite:2.2.0-alpha02] D:\Aviro\androidProjects\caches\transforms-3\23aed59f4831cda7d639e9a59b777b0d\transformed\sqlite-2.2.0-alpha02\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] D:\Aviro\androidProjects\caches\transforms-3\62cf865dd5b6113d001f5415a4031c94\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] D:\Aviro\androidProjects\caches\transforms-3\62cf865dd5b6113d001f5415a4031c94\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0-alpha02] D:\Aviro\androidProjects\caches\transforms-3\acaf0f6e939754b60e3f982128d1ac47\transformed\lifecycle-process-2.4.0-alpha02\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0-alpha02] D:\Aviro\androidProjects\caches\transforms-3\acaf0f6e939754b60e3f982128d1ac47\transformed\lifecycle-process-2.4.0-alpha02\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.0.0] D:\Aviro\androidProjects\caches\transforms-3\e92bf5af84b879ded108dec914bffcc5\transformed\startup-runtime-1.0.0\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.0.0] D:\Aviro\androidProjects\caches\transforms-3\e92bf5af84b879ded108dec914bffcc5\transformed\startup-runtime-1.0.0\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] D:\Aviro\androidProjects\caches\transforms-3\0bfdcb201ff694db5b6aed21366838d4\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] D:\Aviro\androidProjects\caches\transforms-3\0bfdcb201ff694db5b6aed21366838d4\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] D:\Aviro\androidProjects\caches\transforms-3\05fa26be71c560e97c3573dc6792a12a\transformed\lifecycle-livedata-core-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] D:\Aviro\androidProjects\caches\transforms-3\05fa26be71c560e97c3573dc6792a12a\transformed\lifecycle-livedata-core-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.4.0-alpha02] D:\Aviro\androidProjects\caches\transforms-3\2047ae923e582f962a006389cb8869c3\transformed\lifecycle-runtime-2.4.0-alpha02\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.4.0-alpha02] D:\Aviro\androidProjects\caches\transforms-3\2047ae923e582f962a006389cb8869c3\transformed\lifecycle-runtime-2.4.0-alpha02\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] D:\Aviro\androidProjects\caches\transforms-3\eefc61477b7b010653c65bad3e6875f7\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] D:\Aviro\androidProjects\caches\transforms-3\eefc61477b7b010653c65bad3e6875f7\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] D:\Aviro\androidProjects\caches\transforms-3\c950df2ac6d71b85fad03f7f679228ad\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] D:\Aviro\androidProjects\caches\transforms-3\c950df2ac6d71b85fad03f7f679228ad\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.tracing:tracing:1.0.0] D:\Aviro\androidProjects\caches\transforms-3\6221746350d3f89b869effc1f0ab910f\transformed\tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] D:\Aviro\androidProjects\caches\transforms-3\6221746350d3f89b869effc1f0ab910f\transformed\tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] D:\Aviro\androidProjects\caches\transforms-3\af32a7b857f3da4c449a610855d74b14\transformed\annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] D:\Aviro\androidProjects\caches\transforms-3\af32a7b857f3da4c449a610855d74b14\transformed\annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
 INJECTED from D:\learnAndroid\word-dictionary\app\src\main\AndroidManifest.xml
 INJECTED from D:\learnAndroid\word-dictionary\app\src\main\AndroidManifest.xml
 	android:targetSdkVersion
@@ -303,68 +303,68 @@ INJECTED from D:\learnAndroid\word-dictionary\app\src\main\AndroidManifest.xml
 		ADDED from D:\learnAndroid\word-dictionary\app\src\main\AndroidManifest.xml
 		INJECTED from D:\learnAndroid\word-dictionary\app\src\main\AndroidManifest.xml
 activity#androidx.compose.ui.tooling.PreviewActivity
-ADDED from [androidx.compose.ui:ui-tooling:1.0.1] D:\Aviro\androidProjects\caches\transforms-3\dd9f22be2e8b59e77c1cecba5d3e403d\transformed\ui-tooling-1.0.1\AndroidManifest.xml:25:9-27:39
+ADDED from [androidx.compose.ui:ui-tooling:1.0.1] D:\Aviro\androidProjects\caches\transforms-3\d3d1863f5e1a6bd5ba5355a0256021a3\transformed\ui-tooling-1.0.1\AndroidManifest.xml:25:9-27:39
 	android:exported
-		ADDED from [androidx.compose.ui:ui-tooling:1.0.1] D:\Aviro\androidProjects\caches\transforms-3\dd9f22be2e8b59e77c1cecba5d3e403d\transformed\ui-tooling-1.0.1\AndroidManifest.xml:27:13-36
+		ADDED from [androidx.compose.ui:ui-tooling:1.0.1] D:\Aviro\androidProjects\caches\transforms-3\d3d1863f5e1a6bd5ba5355a0256021a3\transformed\ui-tooling-1.0.1\AndroidManifest.xml:27:13-36
 	android:name
-		ADDED from [androidx.compose.ui:ui-tooling:1.0.1] D:\Aviro\androidProjects\caches\transforms-3\dd9f22be2e8b59e77c1cecba5d3e403d\transformed\ui-tooling-1.0.1\AndroidManifest.xml:26:13-71
+		ADDED from [androidx.compose.ui:ui-tooling:1.0.1] D:\Aviro\androidProjects\caches\transforms-3\d3d1863f5e1a6bd5ba5355a0256021a3\transformed\ui-tooling-1.0.1\AndroidManifest.xml:26:13-71
 service#androidx.room.MultiInstanceInvalidationService
-ADDED from [androidx.room:room-runtime:2.4.0-alpha04] D:\Aviro\androidProjects\caches\transforms-3\6a84997e0609c6c059883ab4e37e559c\transformed\room-runtime-2.4.0-alpha04\AndroidManifest.xml:25:9-28:40
+ADDED from [androidx.room:room-runtime:2.4.0-alpha04] D:\Aviro\androidProjects\caches\transforms-3\d886610a3d52a6c7706d568cdb165e20\transformed\room-runtime-2.4.0-alpha04\AndroidManifest.xml:25:9-28:40
 	android:exported
-		ADDED from [androidx.room:room-runtime:2.4.0-alpha04] D:\Aviro\androidProjects\caches\transforms-3\6a84997e0609c6c059883ab4e37e559c\transformed\room-runtime-2.4.0-alpha04\AndroidManifest.xml:28:13-37
+		ADDED from [androidx.room:room-runtime:2.4.0-alpha04] D:\Aviro\androidProjects\caches\transforms-3\d886610a3d52a6c7706d568cdb165e20\transformed\room-runtime-2.4.0-alpha04\AndroidManifest.xml:28:13-37
 	android:directBootAware
-		ADDED from [androidx.room:room-runtime:2.4.0-alpha04] D:\Aviro\androidProjects\caches\transforms-3\6a84997e0609c6c059883ab4e37e559c\transformed\room-runtime-2.4.0-alpha04\AndroidManifest.xml:27:13-43
+		ADDED from [androidx.room:room-runtime:2.4.0-alpha04] D:\Aviro\androidProjects\caches\transforms-3\d886610a3d52a6c7706d568cdb165e20\transformed\room-runtime-2.4.0-alpha04\AndroidManifest.xml:27:13-43
 	android:name
-		ADDED from [androidx.room:room-runtime:2.4.0-alpha04] D:\Aviro\androidProjects\caches\transforms-3\6a84997e0609c6c059883ab4e37e559c\transformed\room-runtime-2.4.0-alpha04\AndroidManifest.xml:26:13-74
+		ADDED from [androidx.room:room-runtime:2.4.0-alpha04] D:\Aviro\androidProjects\caches\transforms-3\d886610a3d52a6c7706d568cdb165e20\transformed\room-runtime-2.4.0-alpha04\AndroidManifest.xml:26:13-74
 provider#androidx.startup.InitializationProvider
-ADDED from [androidx.emoji2:emoji2:1.0.0-alpha03] D:\Aviro\androidProjects\caches\transforms-3\ddece3dd8305a76f1eb6ac2eb8a5e755\transformed\emoji2-1.0.0-alpha03\AndroidManifest.xml:26:9-34:20
-MERGED from [androidx.profileinstaller:profileinstaller:1.0.1] D:\Aviro\androidProjects\caches\transforms-3\01c9b37f290c5ef5be678c5d1dd0ec3d\transformed\profileinstaller-1.0.1\AndroidManifest.xml:26:9-34:20
-MERGED from [androidx.profileinstaller:profileinstaller:1.0.1] D:\Aviro\androidProjects\caches\transforms-3\01c9b37f290c5ef5be678c5d1dd0ec3d\transformed\profileinstaller-1.0.1\AndroidManifest.xml:26:9-34:20
-MERGED from [androidx.lifecycle:lifecycle-process:2.4.0-alpha02] D:\Aviro\androidProjects\caches\transforms-3\a41eb5c0cd622a3de41ff0a54a607c85\transformed\lifecycle-process-2.4.0-alpha02\AndroidManifest.xml:26:9-34:20
-MERGED from [androidx.lifecycle:lifecycle-process:2.4.0-alpha02] D:\Aviro\androidProjects\caches\transforms-3\a41eb5c0cd622a3de41ff0a54a607c85\transformed\lifecycle-process-2.4.0-alpha02\AndroidManifest.xml:26:9-34:20
-MERGED from [androidx.startup:startup-runtime:1.0.0] D:\Aviro\androidProjects\caches\transforms-3\89233b0f36bf31af1856bc4d57bc09fe\transformed\startup-runtime-1.0.0\AndroidManifest.xml:26:9-30:34
-MERGED from [androidx.startup:startup-runtime:1.0.0] D:\Aviro\androidProjects\caches\transforms-3\89233b0f36bf31af1856bc4d57bc09fe\transformed\startup-runtime-1.0.0\AndroidManifest.xml:26:9-30:34
+ADDED from [androidx.emoji2:emoji2:1.0.0-alpha03] D:\Aviro\androidProjects\caches\transforms-3\a9f27d0ec64e5c852e7bd5cd9f50c52c\transformed\emoji2-1.0.0-alpha03\AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.0.1] D:\Aviro\androidProjects\caches\transforms-3\40f6739bfc4a398d8df81a090f2e9ab2\transformed\profileinstaller-1.0.1\AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.0.1] D:\Aviro\androidProjects\caches\transforms-3\40f6739bfc4a398d8df81a090f2e9ab2\transformed\profileinstaller-1.0.1\AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0-alpha02] D:\Aviro\androidProjects\caches\transforms-3\acaf0f6e939754b60e3f982128d1ac47\transformed\lifecycle-process-2.4.0-alpha02\AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0-alpha02] D:\Aviro\androidProjects\caches\transforms-3\acaf0f6e939754b60e3f982128d1ac47\transformed\lifecycle-process-2.4.0-alpha02\AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.startup:startup-runtime:1.0.0] D:\Aviro\androidProjects\caches\transforms-3\e92bf5af84b879ded108dec914bffcc5\transformed\startup-runtime-1.0.0\AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.0.0] D:\Aviro\androidProjects\caches\transforms-3\e92bf5af84b879ded108dec914bffcc5\transformed\startup-runtime-1.0.0\AndroidManifest.xml:26:9-30:34
 	tools:node
-		ADDED from [androidx.emoji2:emoji2:1.0.0-alpha03] D:\Aviro\androidProjects\caches\transforms-3\ddece3dd8305a76f1eb6ac2eb8a5e755\transformed\emoji2-1.0.0-alpha03\AndroidManifest.xml:30:13-31
+		ADDED from [androidx.emoji2:emoji2:1.0.0-alpha03] D:\Aviro\androidProjects\caches\transforms-3\a9f27d0ec64e5c852e7bd5cd9f50c52c\transformed\emoji2-1.0.0-alpha03\AndroidManifest.xml:30:13-31
 	android:authorities
-		ADDED from [androidx.emoji2:emoji2:1.0.0-alpha03] D:\Aviro\androidProjects\caches\transforms-3\ddece3dd8305a76f1eb6ac2eb8a5e755\transformed\emoji2-1.0.0-alpha03\AndroidManifest.xml:28:13-68
+		ADDED from [androidx.emoji2:emoji2:1.0.0-alpha03] D:\Aviro\androidProjects\caches\transforms-3\a9f27d0ec64e5c852e7bd5cd9f50c52c\transformed\emoji2-1.0.0-alpha03\AndroidManifest.xml:28:13-68
 	android:exported
-		ADDED from [androidx.emoji2:emoji2:1.0.0-alpha03] D:\Aviro\androidProjects\caches\transforms-3\ddece3dd8305a76f1eb6ac2eb8a5e755\transformed\emoji2-1.0.0-alpha03\AndroidManifest.xml:29:13-37
+		ADDED from [androidx.emoji2:emoji2:1.0.0-alpha03] D:\Aviro\androidProjects\caches\transforms-3\a9f27d0ec64e5c852e7bd5cd9f50c52c\transformed\emoji2-1.0.0-alpha03\AndroidManifest.xml:29:13-37
 	android:name
-		ADDED from [androidx.emoji2:emoji2:1.0.0-alpha03] D:\Aviro\androidProjects\caches\transforms-3\ddece3dd8305a76f1eb6ac2eb8a5e755\transformed\emoji2-1.0.0-alpha03\AndroidManifest.xml:27:13-67
+		ADDED from [androidx.emoji2:emoji2:1.0.0-alpha03] D:\Aviro\androidProjects\caches\transforms-3\a9f27d0ec64e5c852e7bd5cd9f50c52c\transformed\emoji2-1.0.0-alpha03\AndroidManifest.xml:27:13-67
 meta-data#androidx.emoji2.text.EmojiCompatInitializer
-ADDED from [androidx.emoji2:emoji2:1.0.0-alpha03] D:\Aviro\androidProjects\caches\transforms-3\ddece3dd8305a76f1eb6ac2eb8a5e755\transformed\emoji2-1.0.0-alpha03\AndroidManifest.xml:31:13-33:52
+ADDED from [androidx.emoji2:emoji2:1.0.0-alpha03] D:\Aviro\androidProjects\caches\transforms-3\a9f27d0ec64e5c852e7bd5cd9f50c52c\transformed\emoji2-1.0.0-alpha03\AndroidManifest.xml:31:13-33:52
 	android:value
-		ADDED from [androidx.emoji2:emoji2:1.0.0-alpha03] D:\Aviro\androidProjects\caches\transforms-3\ddece3dd8305a76f1eb6ac2eb8a5e755\transformed\emoji2-1.0.0-alpha03\AndroidManifest.xml:33:17-49
+		ADDED from [androidx.emoji2:emoji2:1.0.0-alpha03] D:\Aviro\androidProjects\caches\transforms-3\a9f27d0ec64e5c852e7bd5cd9f50c52c\transformed\emoji2-1.0.0-alpha03\AndroidManifest.xml:33:17-49
 	android:name
-		ADDED from [androidx.emoji2:emoji2:1.0.0-alpha03] D:\Aviro\androidProjects\caches\transforms-3\ddece3dd8305a76f1eb6ac2eb8a5e755\transformed\emoji2-1.0.0-alpha03\AndroidManifest.xml:32:17-75
+		ADDED from [androidx.emoji2:emoji2:1.0.0-alpha03] D:\Aviro\androidProjects\caches\transforms-3\a9f27d0ec64e5c852e7bd5cd9f50c52c\transformed\emoji2-1.0.0-alpha03\AndroidManifest.xml:32:17-75
 meta-data#androidx.profileinstaller.ProfileInstallerInitializer
-ADDED from [androidx.profileinstaller:profileinstaller:1.0.1] D:\Aviro\androidProjects\caches\transforms-3\01c9b37f290c5ef5be678c5d1dd0ec3d\transformed\profileinstaller-1.0.1\AndroidManifest.xml:31:13-33:52
+ADDED from [androidx.profileinstaller:profileinstaller:1.0.1] D:\Aviro\androidProjects\caches\transforms-3\40f6739bfc4a398d8df81a090f2e9ab2\transformed\profileinstaller-1.0.1\AndroidManifest.xml:31:13-33:52
 	android:value
-		ADDED from [androidx.profileinstaller:profileinstaller:1.0.1] D:\Aviro\androidProjects\caches\transforms-3\01c9b37f290c5ef5be678c5d1dd0ec3d\transformed\profileinstaller-1.0.1\AndroidManifest.xml:33:17-49
+		ADDED from [androidx.profileinstaller:profileinstaller:1.0.1] D:\Aviro\androidProjects\caches\transforms-3\40f6739bfc4a398d8df81a090f2e9ab2\transformed\profileinstaller-1.0.1\AndroidManifest.xml:33:17-49
 	android:name
-		ADDED from [androidx.profileinstaller:profileinstaller:1.0.1] D:\Aviro\androidProjects\caches\transforms-3\01c9b37f290c5ef5be678c5d1dd0ec3d\transformed\profileinstaller-1.0.1\AndroidManifest.xml:32:17-85
+		ADDED from [androidx.profileinstaller:profileinstaller:1.0.1] D:\Aviro\androidProjects\caches\transforms-3\40f6739bfc4a398d8df81a090f2e9ab2\transformed\profileinstaller-1.0.1\AndroidManifest.xml:32:17-85
 receiver#androidx.profileinstaller.ProfileInstallReceiver
-ADDED from [androidx.profileinstaller:profileinstaller:1.0.1] D:\Aviro\androidProjects\caches\transforms-3\01c9b37f290c5ef5be678c5d1dd0ec3d\transformed\profileinstaller-1.0.1\AndroidManifest.xml:36:9-45:20
+ADDED from [androidx.profileinstaller:profileinstaller:1.0.1] D:\Aviro\androidProjects\caches\transforms-3\40f6739bfc4a398d8df81a090f2e9ab2\transformed\profileinstaller-1.0.1\AndroidManifest.xml:36:9-45:20
 	android:enabled
-		ADDED from [androidx.profileinstaller:profileinstaller:1.0.1] D:\Aviro\androidProjects\caches\transforms-3\01c9b37f290c5ef5be678c5d1dd0ec3d\transformed\profileinstaller-1.0.1\AndroidManifest.xml:39:13-35
+		ADDED from [androidx.profileinstaller:profileinstaller:1.0.1] D:\Aviro\androidProjects\caches\transforms-3\40f6739bfc4a398d8df81a090f2e9ab2\transformed\profileinstaller-1.0.1\AndroidManifest.xml:39:13-35
 	android:exported
-		ADDED from [androidx.profileinstaller:profileinstaller:1.0.1] D:\Aviro\androidProjects\caches\transforms-3\01c9b37f290c5ef5be678c5d1dd0ec3d\transformed\profileinstaller-1.0.1\AndroidManifest.xml:40:13-36
+		ADDED from [androidx.profileinstaller:profileinstaller:1.0.1] D:\Aviro\androidProjects\caches\transforms-3\40f6739bfc4a398d8df81a090f2e9ab2\transformed\profileinstaller-1.0.1\AndroidManifest.xml:40:13-36
 	android:permission
-		ADDED from [androidx.profileinstaller:profileinstaller:1.0.1] D:\Aviro\androidProjects\caches\transforms-3\01c9b37f290c5ef5be678c5d1dd0ec3d\transformed\profileinstaller-1.0.1\AndroidManifest.xml:41:13-57
+		ADDED from [androidx.profileinstaller:profileinstaller:1.0.1] D:\Aviro\androidProjects\caches\transforms-3\40f6739bfc4a398d8df81a090f2e9ab2\transformed\profileinstaller-1.0.1\AndroidManifest.xml:41:13-57
 	android:directBootAware
-		ADDED from [androidx.profileinstaller:profileinstaller:1.0.1] D:\Aviro\androidProjects\caches\transforms-3\01c9b37f290c5ef5be678c5d1dd0ec3d\transformed\profileinstaller-1.0.1\AndroidManifest.xml:38:13-44
+		ADDED from [androidx.profileinstaller:profileinstaller:1.0.1] D:\Aviro\androidProjects\caches\transforms-3\40f6739bfc4a398d8df81a090f2e9ab2\transformed\profileinstaller-1.0.1\AndroidManifest.xml:38:13-44
 	android:name
-		ADDED from [androidx.profileinstaller:profileinstaller:1.0.1] D:\Aviro\androidProjects\caches\transforms-3\01c9b37f290c5ef5be678c5d1dd0ec3d\transformed\profileinstaller-1.0.1\AndroidManifest.xml:37:13-76
+		ADDED from [androidx.profileinstaller:profileinstaller:1.0.1] D:\Aviro\androidProjects\caches\transforms-3\40f6739bfc4a398d8df81a090f2e9ab2\transformed\profileinstaller-1.0.1\AndroidManifest.xml:37:13-76
 intent-filter#action:name:androidx.profileinstaller.action.INSTALL_PROFILE
-ADDED from [androidx.profileinstaller:profileinstaller:1.0.1] D:\Aviro\androidProjects\caches\transforms-3\01c9b37f290c5ef5be678c5d1dd0ec3d\transformed\profileinstaller-1.0.1\AndroidManifest.xml:42:13-44:29
+ADDED from [androidx.profileinstaller:profileinstaller:1.0.1] D:\Aviro\androidProjects\caches\transforms-3\40f6739bfc4a398d8df81a090f2e9ab2\transformed\profileinstaller-1.0.1\AndroidManifest.xml:42:13-44:29
 action#androidx.profileinstaller.action.INSTALL_PROFILE
-ADDED from [androidx.profileinstaller:profileinstaller:1.0.1] D:\Aviro\androidProjects\caches\transforms-3\01c9b37f290c5ef5be678c5d1dd0ec3d\transformed\profileinstaller-1.0.1\AndroidManifest.xml:43:17-91
+ADDED from [androidx.profileinstaller:profileinstaller:1.0.1] D:\Aviro\androidProjects\caches\transforms-3\40f6739bfc4a398d8df81a090f2e9ab2\transformed\profileinstaller-1.0.1\AndroidManifest.xml:43:17-91
 	android:name
-		ADDED from [androidx.profileinstaller:profileinstaller:1.0.1] D:\Aviro\androidProjects\caches\transforms-3\01c9b37f290c5ef5be678c5d1dd0ec3d\transformed\profileinstaller-1.0.1\AndroidManifest.xml:43:25-88
+		ADDED from [androidx.profileinstaller:profileinstaller:1.0.1] D:\Aviro\androidProjects\caches\transforms-3\40f6739bfc4a398d8df81a090f2e9ab2\transformed\profileinstaller-1.0.1\AndroidManifest.xml:43:25-88
 meta-data#androidx.lifecycle.ProcessLifecycleInitializer
-ADDED from [androidx.lifecycle:lifecycle-process:2.4.0-alpha02] D:\Aviro\androidProjects\caches\transforms-3\a41eb5c0cd622a3de41ff0a54a607c85\transformed\lifecycle-process-2.4.0-alpha02\AndroidManifest.xml:31:13-33:52
+ADDED from [androidx.lifecycle:lifecycle-process:2.4.0-alpha02] D:\Aviro\androidProjects\caches\transforms-3\acaf0f6e939754b60e3f982128d1ac47\transformed\lifecycle-process-2.4.0-alpha02\AndroidManifest.xml:31:13-33:52
 	android:value
-		ADDED from [androidx.lifecycle:lifecycle-process:2.4.0-alpha02] D:\Aviro\androidProjects\caches\transforms-3\a41eb5c0cd622a3de41ff0a54a607c85\transformed\lifecycle-process-2.4.0-alpha02\AndroidManifest.xml:33:17-49
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.0-alpha02] D:\Aviro\androidProjects\caches\transforms-3\acaf0f6e939754b60e3f982128d1ac47\transformed\lifecycle-process-2.4.0-alpha02\AndroidManifest.xml:33:17-49
 	android:name
-		ADDED from [androidx.lifecycle:lifecycle-process:2.4.0-alpha02] D:\Aviro\androidProjects\caches\transforms-3\a41eb5c0cd622a3de41ff0a54a607c85\transformed\lifecycle-process-2.4.0-alpha02\AndroidManifest.xml:32:17-78
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.0-alpha02] D:\Aviro\androidProjects\caches\transforms-3\acaf0f6e939754b60e3f982128d1ac47\transformed\lifecycle-process-2.4.0-alpha02\AndroidManifest.xml:32:17-78
