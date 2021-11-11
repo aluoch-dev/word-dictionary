@@ -54,7 +54,7 @@
 48        android:allowBackup="false"
 48-->D:\learnAndroid\word-dictionary\app\src\main\AndroidManifest.xml:43:5-32
 49        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
-49-->[androidx.core:core:1.7.0-alpha01] D:\Aviro\androidProjects\caches\transforms-3\4371c5eed71dc381c4163c5e2c9f5cce\transformed\core-1.7.0-alpha01\AndroidManifest.xml:24:18-86
+49-->[androidx.core:core:1.7.0-alpha01] D:\Aviro\androidProjects\caches\transforms-3\01b2aeb20568a493d1e28241ede9fa50\transformed\core-1.7.0-alpha01\AndroidManifest.xml:24:18-86
 50        android:debuggable="true"
 51        android:extractNativeLibs="false"
 52        android:icon="@mipmap/ic_launcher"
@@ -88,66 +88,66 @@
 66            </intent-filter>
 67        </activity>
 68        <activity
-68-->[androidx.compose.ui:ui-tooling:1.0.1] D:\Aviro\androidProjects\caches\transforms-3\dd9f22be2e8b59e77c1cecba5d3e403d\transformed\ui-tooling-1.0.1\AndroidManifest.xml:25:9-27:39
+68-->[androidx.compose.ui:ui-tooling:1.0.1] D:\Aviro\androidProjects\caches\transforms-3\d3d1863f5e1a6bd5ba5355a0256021a3\transformed\ui-tooling-1.0.1\AndroidManifest.xml:25:9-27:39
 69            android:name="androidx.compose.ui.tooling.PreviewActivity"
-69-->[androidx.compose.ui:ui-tooling:1.0.1] D:\Aviro\androidProjects\caches\transforms-3\dd9f22be2e8b59e77c1cecba5d3e403d\transformed\ui-tooling-1.0.1\AndroidManifest.xml:26:13-71
+69-->[androidx.compose.ui:ui-tooling:1.0.1] D:\Aviro\androidProjects\caches\transforms-3\d3d1863f5e1a6bd5ba5355a0256021a3\transformed\ui-tooling-1.0.1\AndroidManifest.xml:26:13-71
 70            android:exported="true" />
-70-->[androidx.compose.ui:ui-tooling:1.0.1] D:\Aviro\androidProjects\caches\transforms-3\dd9f22be2e8b59e77c1cecba5d3e403d\transformed\ui-tooling-1.0.1\AndroidManifest.xml:27:13-36
+70-->[androidx.compose.ui:ui-tooling:1.0.1] D:\Aviro\androidProjects\caches\transforms-3\d3d1863f5e1a6bd5ba5355a0256021a3\transformed\ui-tooling-1.0.1\AndroidManifest.xml:27:13-36
 71
 72        <service
-72-->[androidx.room:room-runtime:2.4.0-alpha04] D:\Aviro\androidProjects\caches\transforms-3\6a84997e0609c6c059883ab4e37e559c\transformed\room-runtime-2.4.0-alpha04\AndroidManifest.xml:25:9-28:40
+72-->[androidx.room:room-runtime:2.4.0-alpha04] D:\Aviro\androidProjects\caches\transforms-3\d886610a3d52a6c7706d568cdb165e20\transformed\room-runtime-2.4.0-alpha04\AndroidManifest.xml:25:9-28:40
 73            android:name="androidx.room.MultiInstanceInvalidationService"
-73-->[androidx.room:room-runtime:2.4.0-alpha04] D:\Aviro\androidProjects\caches\transforms-3\6a84997e0609c6c059883ab4e37e559c\transformed\room-runtime-2.4.0-alpha04\AndroidManifest.xml:26:13-74
+73-->[androidx.room:room-runtime:2.4.0-alpha04] D:\Aviro\androidProjects\caches\transforms-3\d886610a3d52a6c7706d568cdb165e20\transformed\room-runtime-2.4.0-alpha04\AndroidManifest.xml:26:13-74
 74            android:directBootAware="true"
-74-->[androidx.room:room-runtime:2.4.0-alpha04] D:\Aviro\androidProjects\caches\transforms-3\6a84997e0609c6c059883ab4e37e559c\transformed\room-runtime-2.4.0-alpha04\AndroidManifest.xml:27:13-43
+74-->[androidx.room:room-runtime:2.4.0-alpha04] D:\Aviro\androidProjects\caches\transforms-3\d886610a3d52a6c7706d568cdb165e20\transformed\room-runtime-2.4.0-alpha04\AndroidManifest.xml:27:13-43
 75            android:exported="false" />
-75-->[androidx.room:room-runtime:2.4.0-alpha04] D:\Aviro\androidProjects\caches\transforms-3\6a84997e0609c6c059883ab4e37e559c\transformed\room-runtime-2.4.0-alpha04\AndroidManifest.xml:28:13-37
+75-->[androidx.room:room-runtime:2.4.0-alpha04] D:\Aviro\androidProjects\caches\transforms-3\d886610a3d52a6c7706d568cdb165e20\transformed\room-runtime-2.4.0-alpha04\AndroidManifest.xml:28:13-37
 76
 77        <provider
-77-->[androidx.emoji2:emoji2:1.0.0-alpha03] D:\Aviro\androidProjects\caches\transforms-3\ddece3dd8305a76f1eb6ac2eb8a5e755\transformed\emoji2-1.0.0-alpha03\AndroidManifest.xml:26:9-34:20
+77-->[androidx.emoji2:emoji2:1.0.0-alpha03] D:\Aviro\androidProjects\caches\transforms-3\a9f27d0ec64e5c852e7bd5cd9f50c52c\transformed\emoji2-1.0.0-alpha03\AndroidManifest.xml:26:9-34:20
 78            android:name="androidx.startup.InitializationProvider"
-78-->[androidx.emoji2:emoji2:1.0.0-alpha03] D:\Aviro\androidProjects\caches\transforms-3\ddece3dd8305a76f1eb6ac2eb8a5e755\transformed\emoji2-1.0.0-alpha03\AndroidManifest.xml:27:13-67
+78-->[androidx.emoji2:emoji2:1.0.0-alpha03] D:\Aviro\androidProjects\caches\transforms-3\a9f27d0ec64e5c852e7bd5cd9f50c52c\transformed\emoji2-1.0.0-alpha03\AndroidManifest.xml:27:13-67
 79            android:authorities="com.raywenderlich.android.words.androidx-startup"
-79-->[androidx.emoji2:emoji2:1.0.0-alpha03] D:\Aviro\androidProjects\caches\transforms-3\ddece3dd8305a76f1eb6ac2eb8a5e755\transformed\emoji2-1.0.0-alpha03\AndroidManifest.xml:28:13-68
+79-->[androidx.emoji2:emoji2:1.0.0-alpha03] D:\Aviro\androidProjects\caches\transforms-3\a9f27d0ec64e5c852e7bd5cd9f50c52c\transformed\emoji2-1.0.0-alpha03\AndroidManifest.xml:28:13-68
 80            android:exported="false" >
-80-->[androidx.emoji2:emoji2:1.0.0-alpha03] D:\Aviro\androidProjects\caches\transforms-3\ddece3dd8305a76f1eb6ac2eb8a5e755\transformed\emoji2-1.0.0-alpha03\AndroidManifest.xml:29:13-37
+80-->[androidx.emoji2:emoji2:1.0.0-alpha03] D:\Aviro\androidProjects\caches\transforms-3\a9f27d0ec64e5c852e7bd5cd9f50c52c\transformed\emoji2-1.0.0-alpha03\AndroidManifest.xml:29:13-37
 81            <meta-data
-81-->[androidx.emoji2:emoji2:1.0.0-alpha03] D:\Aviro\androidProjects\caches\transforms-3\ddece3dd8305a76f1eb6ac2eb8a5e755\transformed\emoji2-1.0.0-alpha03\AndroidManifest.xml:31:13-33:52
+81-->[androidx.emoji2:emoji2:1.0.0-alpha03] D:\Aviro\androidProjects\caches\transforms-3\a9f27d0ec64e5c852e7bd5cd9f50c52c\transformed\emoji2-1.0.0-alpha03\AndroidManifest.xml:31:13-33:52
 82                android:name="androidx.emoji2.text.EmojiCompatInitializer"
-82-->[androidx.emoji2:emoji2:1.0.0-alpha03] D:\Aviro\androidProjects\caches\transforms-3\ddece3dd8305a76f1eb6ac2eb8a5e755\transformed\emoji2-1.0.0-alpha03\AndroidManifest.xml:32:17-75
+82-->[androidx.emoji2:emoji2:1.0.0-alpha03] D:\Aviro\androidProjects\caches\transforms-3\a9f27d0ec64e5c852e7bd5cd9f50c52c\transformed\emoji2-1.0.0-alpha03\AndroidManifest.xml:32:17-75
 83                android:value="androidx.startup" />
-83-->[androidx.emoji2:emoji2:1.0.0-alpha03] D:\Aviro\androidProjects\caches\transforms-3\ddece3dd8305a76f1eb6ac2eb8a5e755\transformed\emoji2-1.0.0-alpha03\AndroidManifest.xml:33:17-49
+83-->[androidx.emoji2:emoji2:1.0.0-alpha03] D:\Aviro\androidProjects\caches\transforms-3\a9f27d0ec64e5c852e7bd5cd9f50c52c\transformed\emoji2-1.0.0-alpha03\AndroidManifest.xml:33:17-49
 84            <meta-data
-84-->[androidx.profileinstaller:profileinstaller:1.0.1] D:\Aviro\androidProjects\caches\transforms-3\01c9b37f290c5ef5be678c5d1dd0ec3d\transformed\profileinstaller-1.0.1\AndroidManifest.xml:31:13-33:52
+84-->[androidx.profileinstaller:profileinstaller:1.0.1] D:\Aviro\androidProjects\caches\transforms-3\40f6739bfc4a398d8df81a090f2e9ab2\transformed\profileinstaller-1.0.1\AndroidManifest.xml:31:13-33:52
 85                android:name="androidx.profileinstaller.ProfileInstallerInitializer"
-85-->[androidx.profileinstaller:profileinstaller:1.0.1] D:\Aviro\androidProjects\caches\transforms-3\01c9b37f290c5ef5be678c5d1dd0ec3d\transformed\profileinstaller-1.0.1\AndroidManifest.xml:32:17-85
+85-->[androidx.profileinstaller:profileinstaller:1.0.1] D:\Aviro\androidProjects\caches\transforms-3\40f6739bfc4a398d8df81a090f2e9ab2\transformed\profileinstaller-1.0.1\AndroidManifest.xml:32:17-85
 86                android:value="androidx.startup" />
-86-->[androidx.profileinstaller:profileinstaller:1.0.1] D:\Aviro\androidProjects\caches\transforms-3\01c9b37f290c5ef5be678c5d1dd0ec3d\transformed\profileinstaller-1.0.1\AndroidManifest.xml:33:17-49
+86-->[androidx.profileinstaller:profileinstaller:1.0.1] D:\Aviro\androidProjects\caches\transforms-3\40f6739bfc4a398d8df81a090f2e9ab2\transformed\profileinstaller-1.0.1\AndroidManifest.xml:33:17-49
 87            <meta-data
-87-->[androidx.lifecycle:lifecycle-process:2.4.0-alpha02] D:\Aviro\androidProjects\caches\transforms-3\a41eb5c0cd622a3de41ff0a54a607c85\transformed\lifecycle-process-2.4.0-alpha02\AndroidManifest.xml:31:13-33:52
+87-->[androidx.lifecycle:lifecycle-process:2.4.0-alpha02] D:\Aviro\androidProjects\caches\transforms-3\acaf0f6e939754b60e3f982128d1ac47\transformed\lifecycle-process-2.4.0-alpha02\AndroidManifest.xml:31:13-33:52
 88                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
-88-->[androidx.lifecycle:lifecycle-process:2.4.0-alpha02] D:\Aviro\androidProjects\caches\transforms-3\a41eb5c0cd622a3de41ff0a54a607c85\transformed\lifecycle-process-2.4.0-alpha02\AndroidManifest.xml:32:17-78
+88-->[androidx.lifecycle:lifecycle-process:2.4.0-alpha02] D:\Aviro\androidProjects\caches\transforms-3\acaf0f6e939754b60e3f982128d1ac47\transformed\lifecycle-process-2.4.0-alpha02\AndroidManifest.xml:32:17-78
 89                android:value="androidx.startup" />
-89-->[androidx.lifecycle:lifecycle-process:2.4.0-alpha02] D:\Aviro\androidProjects\caches\transforms-3\a41eb5c0cd622a3de41ff0a54a607c85\transformed\lifecycle-process-2.4.0-alpha02\AndroidManifest.xml:33:17-49
+89-->[androidx.lifecycle:lifecycle-process:2.4.0-alpha02] D:\Aviro\androidProjects\caches\transforms-3\acaf0f6e939754b60e3f982128d1ac47\transformed\lifecycle-process-2.4.0-alpha02\AndroidManifest.xml:33:17-49
 90        </provider>
 91
 92        <receiver
-92-->[androidx.profileinstaller:profileinstaller:1.0.1] D:\Aviro\androidProjects\caches\transforms-3\01c9b37f290c5ef5be678c5d1dd0ec3d\transformed\profileinstaller-1.0.1\AndroidManifest.xml:36:9-45:20
+92-->[androidx.profileinstaller:profileinstaller:1.0.1] D:\Aviro\androidProjects\caches\transforms-3\40f6739bfc4a398d8df81a090f2e9ab2\transformed\profileinstaller-1.0.1\AndroidManifest.xml:36:9-45:20
 93            android:name="androidx.profileinstaller.ProfileInstallReceiver"
-93-->[androidx.profileinstaller:profileinstaller:1.0.1] D:\Aviro\androidProjects\caches\transforms-3\01c9b37f290c5ef5be678c5d1dd0ec3d\transformed\profileinstaller-1.0.1\AndroidManifest.xml:37:13-76
+93-->[androidx.profileinstaller:profileinstaller:1.0.1] D:\Aviro\androidProjects\caches\transforms-3\40f6739bfc4a398d8df81a090f2e9ab2\transformed\profileinstaller-1.0.1\AndroidManifest.xml:37:13-76
 94            android:directBootAware="false"
-94-->[androidx.profileinstaller:profileinstaller:1.0.1] D:\Aviro\androidProjects\caches\transforms-3\01c9b37f290c5ef5be678c5d1dd0ec3d\transformed\profileinstaller-1.0.1\AndroidManifest.xml:38:13-44
+94-->[androidx.profileinstaller:profileinstaller:1.0.1] D:\Aviro\androidProjects\caches\transforms-3\40f6739bfc4a398d8df81a090f2e9ab2\transformed\profileinstaller-1.0.1\AndroidManifest.xml:38:13-44
 95            android:enabled="true"
-95-->[androidx.profileinstaller:profileinstaller:1.0.1] D:\Aviro\androidProjects\caches\transforms-3\01c9b37f290c5ef5be678c5d1dd0ec3d\transformed\profileinstaller-1.0.1\AndroidManifest.xml:39:13-35
+95-->[androidx.profileinstaller:profileinstaller:1.0.1] D:\Aviro\androidProjects\caches\transforms-3\40f6739bfc4a398d8df81a090f2e9ab2\transformed\profileinstaller-1.0.1\AndroidManifest.xml:39:13-35
 96            android:exported="true"
-96-->[androidx.profileinstaller:profileinstaller:1.0.1] D:\Aviro\androidProjects\caches\transforms-3\01c9b37f290c5ef5be678c5d1dd0ec3d\transformed\profileinstaller-1.0.1\AndroidManifest.xml:40:13-36
+96-->[androidx.profileinstaller:profileinstaller:1.0.1] D:\Aviro\androidProjects\caches\transforms-3\40f6739bfc4a398d8df81a090f2e9ab2\transformed\profileinstaller-1.0.1\AndroidManifest.xml:40:13-36
 97            android:permission="android.permission.DUMP" >
-97-->[androidx.profileinstaller:profileinstaller:1.0.1] D:\Aviro\androidProjects\caches\transforms-3\01c9b37f290c5ef5be678c5d1dd0ec3d\transformed\profileinstaller-1.0.1\AndroidManifest.xml:41:13-57
+97-->[androidx.profileinstaller:profileinstaller:1.0.1] D:\Aviro\androidProjects\caches\transforms-3\40f6739bfc4a398d8df81a090f2e9ab2\transformed\profileinstaller-1.0.1\AndroidManifest.xml:41:13-57
 98            <intent-filter>
-98-->[androidx.profileinstaller:profileinstaller:1.0.1] D:\Aviro\androidProjects\caches\transforms-3\01c9b37f290c5ef5be678c5d1dd0ec3d\transformed\profileinstaller-1.0.1\AndroidManifest.xml:42:13-44:29
+98-->[androidx.profileinstaller:profileinstaller:1.0.1] D:\Aviro\androidProjects\caches\transforms-3\40f6739bfc4a398d8df81a090f2e9ab2\transformed\profileinstaller-1.0.1\AndroidManifest.xml:42:13-44:29
 99                <action android:name="androidx.profileinstaller.action.INSTALL_PROFILE" />
-99-->[androidx.profileinstaller:profileinstaller:1.0.1] D:\Aviro\androidProjects\caches\transforms-3\01c9b37f290c5ef5be678c5d1dd0ec3d\transformed\profileinstaller-1.0.1\AndroidManifest.xml:43:17-91
-99-->[androidx.profileinstaller:profileinstaller:1.0.1] D:\Aviro\androidProjects\caches\transforms-3\01c9b37f290c5ef5be678c5d1dd0ec3d\transformed\profileinstaller-1.0.1\AndroidManifest.xml:43:25-88
+99-->[androidx.profileinstaller:profileinstaller:1.0.1] D:\Aviro\androidProjects\caches\transforms-3\40f6739bfc4a398d8df81a090f2e9ab2\transformed\profileinstaller-1.0.1\AndroidManifest.xml:43:17-91
+99-->[androidx.profileinstaller:profileinstaller:1.0.1] D:\Aviro\androidProjects\caches\transforms-3\40f6739bfc4a398d8df81a090f2e9ab2\transformed\profileinstaller-1.0.1\AndroidManifest.xml:43:25-88
 100            </intent-filter>
 101        </receiver>
 102    </application>

@@ -1,7 +1,9 @@
 package com.raywenderlich.android.words.data.words
 
+import androidx.paging.PagingData
 import com.raywenderlich.android.words.data.words.local.WordStore
 import com.raywenderlich.android.words.data.words.remote.WordSource
+import kotlinx.coroutines.flow.Flow
 
 /**
  * Created by Aluoch on 28/10/2021.
@@ -20,7 +22,7 @@ class WordRepository (
     )
 
     //calling ensureIsNotEmpty before calling all function to make sure the store has data
-    suspend fun allWords() : List<Word> =
+    suspend fun allWords() : Flow<PagingData<Word>> =
         wordStore.ensureIsNotEmpty().all()
 
     private suspend fun  WordStore.ensureIsNotEmpty() = apply{
